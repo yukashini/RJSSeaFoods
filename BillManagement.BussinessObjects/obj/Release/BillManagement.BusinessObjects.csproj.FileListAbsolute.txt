@@ -1,0 +1,20 @@
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BussinessObjects\bin\Release\BillManagement.BussinessObjects.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BussinessObjects\bin\Release\BillManagement.BussinessObjects.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BussinessObjects\obj\Release\BillManagement.BussinessObjects.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BussinessObjects\obj\Release\BillManagement.BussinessObjects.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Release\BillManagement.BussinessObjects.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Release\BillManagement.BussinessObjects.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Release\Newtonsoft.Json.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Release\BillManagement.BusinessObjects.csproj.AssemblyReference.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Release\BillManagement.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Release\BillManagement.BusinessObjects.csproj.CopyComplete
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Release\BillManagement.BussinessObjects.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Release\BillManagement.BussinessObjects.pdb
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Release\BillManagement.BussinessObjects.dll
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Release\BillManagement.BussinessObjects.pdb
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Release\Newtonsoft.Json.dll
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Release\BillManagement.BusinessObjects.csproj.AssemblyReference.cache
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Release\BillManagement.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Release\BillManagement.BusinessObjects.csproj.CopyComplete
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Release\BillManagement.BussinessObjects.dll
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Release\BillManagement.BussinessObjects.pdb

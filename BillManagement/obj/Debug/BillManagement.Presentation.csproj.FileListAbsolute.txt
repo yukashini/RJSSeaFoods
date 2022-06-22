@@ -1,0 +1,1155 @@
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\roslyn\csc.exe
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\roslyn\vbc.exe
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\roslyn\VBCSCompiler.exe
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\BillManagement.dll.config
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\BillManagement.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\BillManagement.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\BillManagement.BusinessLogic.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\BillManagement.BussinessObjects.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\ISCLibrary.Utilities.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\RestSharp.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\ISCLibrary.Utilities.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\BillManagement.BusinessLogic.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\BillManagement.BussinessObjects.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\RestSharp.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\obj\Debug\BillManagement.Presentation.csprojResolveAssemblyReference.cache
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\obj\Debug\BillManagement.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagement\obj\Debug\BillManagement.pdb
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\roslyn\csc.exe
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\roslyn\vbc.exe
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\roslyn\VBCSCompiler.exe
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\BillManagement.dll.config
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\BillManagement.dll
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\BillManagement.pdb
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\BillManagement.BusinessLogic.dll
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\BillManagement.BussinessObjects.dll
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\ISCLibrary.Utilities.dll
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\RestSharp.dll
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\BillManagement.BusinessLogic.pdb
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\BillManagement.BussinessObjects.pdb
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\ISCLibrary.Utilities.pdb
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\RestSharp.xml
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\obj\Debug\BillManagement.Presentation.csprojResolveAssemblyReference.cache
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\obj\Debug\BillManagement.dll
+D:\Data\Project\ISC\Backup\BillManagement\BillManagement\obj\Debug\BillManagement.pdb
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\roslyn\csc.exe
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\roslyn\vbc.exe
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\roslyn\VBCSCompiler.exe
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\BillManagement.dll.config
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\BillManagement.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\BillManagement.pdb
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\BillManagement.BusinessLogic.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\BillManagement.BussinessObjects.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\EPPlus.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\Ionic.Zip.Reduced.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\ISCLibrary.Utilities.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\Microsoft.Practices.Unity.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\Microsoft.Practices.Unity.Interception.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\Newtonsoft.Json.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\RestSharp.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\BillManagement.BusinessLogic.pdb
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\BillManagement.BussinessObjects.pdb
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\ISCLibrary.Utilities.pdb
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\RestSharp.xml
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\obj\Debug\BillManagement.Presentation.csprojResolveAssemblyReference.cache
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\obj\Debug\BillManagement.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement\obj\Debug\BillManagement.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\roslyn\csc.exe
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\roslyn\vbc.exe
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\roslyn\VBCSCompiler.exe
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\BillManagement.dll.config
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\BillManagement.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\BillManagement.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\BillManagement.BusinessLogic.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\BillManagement.BussinessObjects.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\ClosedXML.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\DocumentFormat.OpenXml.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\ExcelNumberFormat.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\ISCLibrary.Utilities.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\log4net.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.IdentityModel.Logging.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.Owin.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.Owin.Security.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Newtonsoft.Json.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Owin.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\RestSharp.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\PayPalMerchantSDK.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\PayPalCoreSDK.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\BillManagement.BusinessLogic.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\BillManagement.BussinessObjects.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\ISCLibrary.Utilities.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\ClosedXML.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\ClosedXML.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\DocumentFormat.OpenXml.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\ExcelNumberFormat.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\log4net.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.IdentityModel.Logging.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.IdentityModel.Protocols.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.Owin.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.Owin.Security.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\RestSharp.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\PayPalMerchantSDK.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\bin\PayPalMerchantSDK.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\obj\Debug\BillManagement.Presentation.csprojResolveAssemblyReference.cache
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\obj\Debug\BillManagement.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement\obj\Debug\BillManagement.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\obj\Debug\BillManagement.Presentation.csprojResolveAssemblyReference.cache
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\roslyn\csc.exe
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\roslyn\vbc.exe
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\roslyn\VBCSCompiler.exe
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\BillManagement.dll.config
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\BillManagement.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\BillManagement.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\BillManagement.BusinessLogic.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\BillManagement.BussinessObjects.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\ClosedXML.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\DocumentFormat.OpenXml.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\ExcelNumberFormat.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\ISCLibrary.Utilities.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\log4net.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.IdentityModel.Logging.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.Owin.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.Owin.Security.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Newtonsoft.Json.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Owin.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\RestSharp.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\PayPalMerchantSDK.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\PayPalCoreSDK.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\BillManagement.BusinessLogic.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\BillManagement.BussinessObjects.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\ISCLibrary.Utilities.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\ClosedXML.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\ClosedXML.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\DocumentFormat.OpenXml.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\ExcelNumberFormat.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\log4net.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.IdentityModel.Logging.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.IdentityModel.Protocols.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.Owin.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.Owin.Security.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\RestSharp.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\PayPalMerchantSDK.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\bin\PayPalMerchantSDK.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\obj\Debug\BillManagement.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement\obj\Debug\BillManagement.pdb
+D:\new\BillManagement\bin\roslyn\csc.exe
+D:\new\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\new\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\new\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\new\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\new\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\new\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\new\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\new\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\new\BillManagement\bin\roslyn\vbc.exe
+D:\new\BillManagement\bin\roslyn\VBCSCompiler.exe
+D:\new\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\new\BillManagement\bin\BillManagement.dll.config
+D:\new\BillManagement\bin\BillManagement.dll
+D:\new\BillManagement\bin\BillManagement.pdb
+D:\new\BillManagement\bin\BillManagement.BusinessLogic.dll
+D:\new\BillManagement\bin\BillManagement.BussinessObjects.dll
+D:\new\BillManagement\bin\ClosedXML.dll
+D:\new\BillManagement\bin\DocumentFormat.OpenXml.dll
+D:\new\BillManagement\bin\ExcelNumberFormat.dll
+D:\new\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+D:\new\BillManagement\bin\ISCLibrary.Utilities.dll
+D:\new\BillManagement\bin\log4net.dll
+D:\new\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\new\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\new\BillManagement\bin\Microsoft.IdentityModel.Logging.dll
+D:\new\BillManagement\bin\Microsoft.IdentityModel.Protocols.dll
+D:\new\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\new\BillManagement\bin\Microsoft.IdentityModel.Tokens.dll
+D:\new\BillManagement\bin\Microsoft.Owin.dll
+D:\new\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\new\BillManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\new\BillManagement\bin\Microsoft.Owin.Security.dll
+D:\new\BillManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\new\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\new\BillManagement\bin\Newtonsoft.Json.dll
+D:\new\BillManagement\bin\Owin.dll
+D:\new\BillManagement\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\new\BillManagement\bin\RestSharp.dll
+D:\new\BillManagement\bin\PayPalMerchantSDK.dll
+D:\new\BillManagement\bin\PayPalCoreSDK.dll
+D:\new\BillManagement\bin\BillManagement.BusinessLogic.pdb
+D:\new\BillManagement\bin\BillManagement.BussinessObjects.pdb
+D:\new\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+D:\new\BillManagement\bin\ISCLibrary.Utilities.pdb
+D:\new\BillManagement\bin\ClosedXML.pdb
+D:\new\BillManagement\bin\ClosedXML.xml
+D:\new\BillManagement\bin\DocumentFormat.OpenXml.xml
+D:\new\BillManagement\bin\ExcelNumberFormat.xml
+D:\new\BillManagement\bin\log4net.xml
+D:\new\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\new\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\new\BillManagement\bin\Microsoft.IdentityModel.Logging.xml
+D:\new\BillManagement\bin\Microsoft.IdentityModel.Protocols.pdb
+D:\new\BillManagement\bin\Microsoft.IdentityModel.Protocols.xml
+D:\new\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+D:\new\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\new\BillManagement\bin\Microsoft.IdentityModel.Tokens.xml
+D:\new\BillManagement\bin\Microsoft.Owin.xml
+D:\new\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\new\BillManagement\bin\Microsoft.Owin.Security.xml
+D:\new\BillManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\new\BillManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\new\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\new\BillManagement\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\new\BillManagement\bin\RestSharp.xml
+D:\new\BillManagement\bin\PayPalMerchantSDK.pdb
+D:\new\BillManagement\bin\PayPalMerchantSDK.xml
+D:\new\BillManagement\obj\Debug\BillManagement.Presentation.csprojAssemblyReference.cache
+D:\new\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CoreCompileInputs.cache
+D:\new\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CopyComplete
+D:\new\BillManagement\obj\Debug\BillManagement.dll
+D:\new\BillManagement\obj\Debug\BillManagement.pdb
+D:\ArcBillWEB_SVN\BillManagement\bin\roslyn\csc.exe
+D:\ArcBillWEB_SVN\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ArcBillWEB_SVN\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ArcBillWEB_SVN\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\roslyn\vbc.exe
+D:\ArcBillWEB_SVN\BillManagement\bin\roslyn\VBCSCompiler.exe
+D:\ArcBillWEB_SVN\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\ArcBillWEB_SVN\BillManagement\bin\BillManagement.dll.config
+D:\ArcBillWEB_SVN\BillManagement\bin\BillManagement.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\BillManagement.pdb
+D:\ArcBillWEB_SVN\BillManagement\bin\BillManagement.BusinessLogic.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\BillManagement.BussinessObjects.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\ClosedXML.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\DocumentFormat.OpenXml.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\ExcelNumberFormat.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\ISCLibrary.Utilities.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\log4net.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.IdentityModel.Logging.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.IdentityModel.Protocols.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.IdentityModel.Tokens.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.Owin.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.Owin.Security.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\Newtonsoft.Json.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\Owin.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\RestSharp.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\PayPalMerchantSDK.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\PayPalCoreSDK.dll
+D:\ArcBillWEB_SVN\BillManagement\bin\BillManagement.BusinessLogic.pdb
+D:\ArcBillWEB_SVN\BillManagement\bin\BillManagement.BussinessObjects.pdb
+D:\ArcBillWEB_SVN\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+D:\ArcBillWEB_SVN\BillManagement\bin\ISCLibrary.Utilities.pdb
+D:\ArcBillWEB_SVN\BillManagement\bin\ClosedXML.pdb
+D:\ArcBillWEB_SVN\BillManagement\bin\ClosedXML.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\DocumentFormat.OpenXml.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\ExcelNumberFormat.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\log4net.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.IdentityModel.Logging.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.IdentityModel.Protocols.pdb
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.IdentityModel.Protocols.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.IdentityModel.Tokens.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.Owin.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.Owin.Security.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\RestSharp.xml
+D:\ArcBillWEB_SVN\BillManagement\bin\PayPalMerchantSDK.pdb
+D:\ArcBillWEB_SVN\BillManagement\bin\PayPalMerchantSDK.xml
+D:\ArcBillWEB_SVN\BillManagement\obj\Debug\BillManagement.Presentation.csprojAssemblyReference.cache
+D:\ArcBillWEB_SVN\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CoreCompileInputs.cache
+D:\ArcBillWEB_SVN\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CopyComplete
+D:\ArcBillWEB_SVN\BillManagement\obj\Debug\BillManagement.dll
+D:\ArcBillWEB_SVN\BillManagement\obj\Debug\BillManagement.pdb
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\roslyn\csc.exe
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\roslyn\vbc.exe
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\roslyn\VBCSCompiler.exe
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\BillManagement.dll.config
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\BillManagement.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\BillManagement.pdb
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\BillManagement.BusinessLogic.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\BillManagement.BussinessObjects.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\ClosedXML.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\DocumentFormat.OpenXml.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\ExcelNumberFormat.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\ISCLibrary.Utilities.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\log4net.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.IdentityModel.Logging.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.IdentityModel.Protocols.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.IdentityModel.Tokens.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.Owin.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.Owin.Security.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Newtonsoft.Json.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Owin.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\RestSharp.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\PayPalMerchantSDK.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\PayPalCoreSDK.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\BillManagement.BusinessLogic.pdb
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\BillManagement.BussinessObjects.pdb
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\ISCLibrary.Utilities.pdb
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\ClosedXML.pdb
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\ClosedXML.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\DocumentFormat.OpenXml.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\ExcelNumberFormat.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\log4net.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.IdentityModel.Logging.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.IdentityModel.Protocols.pdb
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.IdentityModel.Protocols.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.IdentityModel.Tokens.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.Owin.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.Owin.Security.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\RestSharp.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\PayPalMerchantSDK.pdb
+D:\ArcBillWeb15-0921UiUodate\BillManagement\bin\PayPalMerchantSDK.xml
+D:\ArcBillWeb15-0921UiUodate\BillManagement\obj\Debug\BillManagement.Presentation.csprojAssemblyReference.cache
+D:\ArcBillWeb15-0921UiUodate\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CoreCompileInputs.cache
+D:\ArcBillWeb15-0921UiUodate\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CopyComplete
+D:\ArcBillWeb15-0921UiUodate\BillManagement\obj\Debug\BillManagement.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement\obj\Debug\BillManagement.pdb
+D:\ArcBillWebLatest\BillManagement\bin\roslyn\csc.exe
+D:\ArcBillWebLatest\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ArcBillWebLatest\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ArcBillWebLatest\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ArcBillWebLatest\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ArcBillWebLatest\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ArcBillWebLatest\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ArcBillWebLatest\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\ArcBillWebLatest\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\ArcBillWebLatest\BillManagement\bin\roslyn\vbc.exe
+D:\ArcBillWebLatest\BillManagement\bin\roslyn\VBCSCompiler.exe
+D:\ArcBillWebLatest\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\ArcBillWebLatest\BillManagement\bin\BillManagement.dll.config
+D:\ArcBillWebLatest\BillManagement\bin\BillManagement.dll
+D:\ArcBillWebLatest\BillManagement\bin\BillManagement.pdb
+D:\ArcBillWebLatest\BillManagement\bin\BillManagement.BusinessLogic.dll
+D:\ArcBillWebLatest\BillManagement\bin\BillManagement.BussinessObjects.dll
+D:\ArcBillWebLatest\BillManagement\bin\ClosedXML.dll
+D:\ArcBillWebLatest\BillManagement\bin\DocumentFormat.OpenXml.dll
+D:\ArcBillWebLatest\BillManagement\bin\ExcelNumberFormat.dll
+D:\ArcBillWebLatest\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+D:\ArcBillWebLatest\BillManagement\bin\ISCLibrary.Utilities.dll
+D:\ArcBillWebLatest\BillManagement\bin\log4net.dll
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.IdentityModel.Logging.dll
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.IdentityModel.Protocols.dll
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.IdentityModel.Tokens.dll
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.Owin.dll
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.Owin.Security.dll
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\ArcBillWebLatest\BillManagement\bin\Newtonsoft.Json.dll
+D:\ArcBillWebLatest\BillManagement\bin\Owin.dll
+D:\ArcBillWebLatest\BillManagement\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\ArcBillWebLatest\BillManagement\bin\RestSharp.dll
+D:\ArcBillWebLatest\BillManagement\bin\PayPalMerchantSDK.dll
+D:\ArcBillWebLatest\BillManagement\bin\PayPalCoreSDK.dll
+D:\ArcBillWebLatest\BillManagement\bin\BillManagement.BusinessLogic.pdb
+D:\ArcBillWebLatest\BillManagement\bin\BillManagement.BussinessObjects.pdb
+D:\ArcBillWebLatest\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+D:\ArcBillWebLatest\BillManagement\bin\ISCLibrary.Utilities.pdb
+D:\ArcBillWebLatest\BillManagement\bin\ClosedXML.pdb
+D:\ArcBillWebLatest\BillManagement\bin\ClosedXML.xml
+D:\ArcBillWebLatest\BillManagement\bin\DocumentFormat.OpenXml.xml
+D:\ArcBillWebLatest\BillManagement\bin\ExcelNumberFormat.xml
+D:\ArcBillWebLatest\BillManagement\bin\log4net.xml
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.IdentityModel.Logging.xml
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.IdentityModel.Protocols.pdb
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.IdentityModel.Protocols.xml
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.IdentityModel.Tokens.xml
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.Owin.xml
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.Owin.Security.xml
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ArcBillWebLatest\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\ArcBillWebLatest\BillManagement\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\ArcBillWebLatest\BillManagement\bin\RestSharp.xml
+D:\ArcBillWebLatest\BillManagement\bin\PayPalMerchantSDK.pdb
+D:\ArcBillWebLatest\BillManagement\bin\PayPalMerchantSDK.xml
+D:\ArcBillWebLatest\BillManagement\obj\Debug\BillManagement.Presentation.csprojAssemblyReference.cache
+D:\ArcBillWebLatest\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CoreCompileInputs.cache
+D:\ArcBillWebLatest\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CopyComplete
+D:\ArcBillWebLatest\BillManagement\obj\Debug\BillManagement.dll
+D:\ArcBillWebLatest\BillManagement\obj\Debug\BillManagement.pdb
+D:\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.AssemblyReference.cache
+D:\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CoreCompileInputs.cache
+D:\ARCBILL\BillManagement\obj\Debug\BillManagement.dll
+D:\ARCBILL\BillManagement\obj\Debug\BillManagement.pdb
+D:\ARCBILL\BillManagement\bin\roslyn\csc.exe
+D:\ARCBILL\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ARCBILL\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ARCBILL\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ARCBILL\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\ARCBILL\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\ARCBILL\BillManagement\bin\roslyn\vbc.exe
+D:\ARCBILL\BillManagement\bin\roslyn\VBCSCompiler.exe
+D:\ARCBILL\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\ARCBILL\BillManagement\bin\BillManagement.dll.config
+D:\ARCBILL\BillManagement\bin\BillManagement.dll
+D:\ARCBILL\BillManagement\bin\BillManagement.pdb
+D:\ARCBILL\BillManagement\bin\BillManagement.BusinessLogic.dll
+D:\ARCBILL\BillManagement\bin\BillManagement.BussinessObjects.dll
+D:\ARCBILL\BillManagement\bin\BouncyCastle.Crypto.dll
+D:\ARCBILL\BillManagement\bin\ClosedXML.dll
+D:\ARCBILL\BillManagement\bin\DocumentFormat.OpenXml.dll
+D:\ARCBILL\BillManagement\bin\ExcelNumberFormat.dll
+D:\ARCBILL\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+D:\ARCBILL\BillManagement\bin\ISCLibrary.Utilities.dll
+D:\ARCBILL\BillManagement\bin\itextsharp.dll
+D:\ARCBILL\BillManagement\bin\log4net.dll
+D:\ARCBILL\BillManagement\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ARCBILL\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Logging.dll
+D:\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.dll
+D:\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Tokens.dll
+D:\ARCBILL\BillManagement\bin\Microsoft.Owin.dll
+D:\ARCBILL\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.dll
+D:\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\ARCBILL\BillManagement\bin\Newtonsoft.Json.dll
+D:\ARCBILL\BillManagement\bin\Owin.dll
+D:\ARCBILL\BillManagement\bin\Stripe.net.dll
+D:\ARCBILL\BillManagement\bin\System.ComponentModel.Annotations.dll
+D:\ARCBILL\BillManagement\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\ARCBILL\BillManagement\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\ARCBILL\BillManagement\bin\System.Threading.Tasks.Extensions.dll
+D:\ARCBILL\BillManagement\bin\WePay.NET.dll
+D:\ARCBILL\BillManagement\bin\RestSharp.dll
+D:\ARCBILL\BillManagement\bin\PayPalMerchantSDK.dll
+D:\ARCBILL\BillManagement\bin\PayPalCoreSDK.dll
+D:\ARCBILL\BillManagement\bin\BillManagement.BusinessLogic.pdb
+D:\ARCBILL\BillManagement\bin\BillManagement.BussinessObjects.pdb
+D:\ARCBILL\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+D:\ARCBILL\BillManagement\bin\ISCLibrary.Utilities.pdb
+D:\ARCBILL\BillManagement\bin\ClosedXML.pdb
+D:\ARCBILL\BillManagement\bin\ClosedXML.xml
+D:\ARCBILL\BillManagement\bin\DocumentFormat.OpenXml.xml
+D:\ARCBILL\BillManagement\bin\ExcelNumberFormat.xml
+D:\ARCBILL\BillManagement\bin\itextsharp.xml
+D:\ARCBILL\BillManagement\bin\log4net.xml
+D:\ARCBILL\BillManagement\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ARCBILL\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Logging.xml
+D:\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.pdb
+D:\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.xml
+D:\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+D:\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Tokens.xml
+D:\ARCBILL\BillManagement\bin\Microsoft.Owin.xml
+D:\ARCBILL\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.xml
+D:\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\ARCBILL\BillManagement\bin\Stripe.net.pdb
+D:\ARCBILL\BillManagement\bin\Stripe.net.xml
+D:\ARCBILL\BillManagement\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\ARCBILL\BillManagement\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\ARCBILL\BillManagement\bin\System.Threading.Tasks.Extensions.xml
+D:\ARCBILL\BillManagement\bin\WePay.NET.xml
+D:\ARCBILL\BillManagement\bin\RestSharp.xml
+D:\ARCBILL\BillManagement\bin\PayPalMerchantSDK.pdb
+D:\ARCBILL\BillManagement\bin\PayPalMerchantSDK.xml
+D:\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CopyComplete
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\roslyn\csc.exe
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\roslyn\vbc.exe
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\roslyn\VBCSCompiler.exe
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.dll.config
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BusinessLogic.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BussinessObjects.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\BouncyCastle.Crypto.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\DocumentFormat.OpenXml.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\ExcelNumberFormat.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.Utilities.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\itextsharp.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\log4net.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Logging.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Tokens.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Newtonsoft.Json.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Owin.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\System.ComponentModel.Annotations.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\System.Threading.Tasks.Extensions.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\WePay.NET.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\RestSharp.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\PayPalCoreSDK.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BusinessLogic.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BussinessObjects.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.Utilities.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\DocumentFormat.OpenXml.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\ExcelNumberFormat.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\itextsharp.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\log4net.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Logging.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Tokens.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\System.Threading.Tasks.Extensions.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\WePay.NET.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\RestSharp.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.AssemblyReference.cache
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CoreCompileInputs.cache
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CopyComplete
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\roslyn\csc.exe
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\roslyn\vbc.exe
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\roslyn\VBCSCompiler.exe
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.dll.config
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BusinessLogic.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BussinessObjects.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\BouncyCastle.Crypto.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\DocumentFormat.OpenXml.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\ExcelNumberFormat.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.Utilities.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\itextsharp.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\log4net.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Logging.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Tokens.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Newtonsoft.Json.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\NuGet.Frameworks.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Owin.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\System.ComponentModel.Annotations.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\System.Threading.Tasks.Extensions.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\WePay.NET.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\RestSharp.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\PayPalCoreSDK.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BusinessLogic.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BussinessObjects.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.Utilities.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\DocumentFormat.OpenXml.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\ExcelNumberFormat.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\itextsharp.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\log4net.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Logging.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Tokens.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\NuGet.Frameworks.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\System.Threading.Tasks.Extensions.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\WePay.NET.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\RestSharp.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.AssemblyReference.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CoreCompileInputs.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CopyComplete
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\csc.exe
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\vbc.exe
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\VBCSCompiler.exe
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.dll.config
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BusinessLogic.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BussinessObjects.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BouncyCastle.Crypto.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\DocumentFormat.OpenXml.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ExcelNumberFormat.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.Utilities.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\itextsharp.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\log4net.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Logging.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Tokens.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.Cookies.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OAuth.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Newtonsoft.Json.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\NuGet.Frameworks.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Owin.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.ComponentModel.Annotations.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.Threading.Tasks.Extensions.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\WePay.NET.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\RestSharp.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\PayPalCoreSDK.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BusinessLogic.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BussinessObjects.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.Utilities.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\DocumentFormat.OpenXml.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ExcelNumberFormat.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\itextsharp.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\log4net.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Logging.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Tokens.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.Cookies.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OAuth.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\NuGet.Frameworks.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.Threading.Tasks.Extensions.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\WePay.NET.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\RestSharp.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csprojAssemblyReference.cache
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CoreCompileInputs.cache
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CopyComplete
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\csc.exe
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\vbc.exe
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.dll.config
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BusinessLogic.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BussinessObjects.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BouncyCastle.Crypto.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\DocumentFormat.OpenXml.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ExcelNumberFormat.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.Utilities.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\itextsharp.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\log4net.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Newtonsoft.Json.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\NuGet.Frameworks.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Owin.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.ComponentModel.Annotations.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\WePay.NET.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\RestSharp.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\PayPalCoreSDK.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BusinessLogic.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BussinessObjects.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.Utilities.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\DocumentFormat.OpenXml.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ExcelNumberFormat.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\itextsharp.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\log4net.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\NuGet.Frameworks.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\WePay.NET.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\RestSharp.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.AssemblyReference.cache
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CopyComplete
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.pdb
+D:\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.AssemblyReference.cache
+D:\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CoreCompileInputs.cache
+D:\ARCBILL\ARCBILL\BillManagement\bin\roslyn\csc.exe
+D:\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ARCBILL\ARCBILL\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\roslyn\vbc.exe
+D:\ARCBILL\ARCBILL\BillManagement\bin\roslyn\VBCSCompiler.exe
+D:\ARCBILL\ARCBILL\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.dll.config
+D:\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.pdb
+D:\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BusinessLogic.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BussinessObjects.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\BouncyCastle.Crypto.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\DocumentFormat.OpenXml.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\ExcelNumberFormat.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.Utilities.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\itextsharp.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\log4net.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Logging.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Tokens.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Newtonsoft.Json.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\NuGet.Frameworks.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Owin.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\System.ComponentModel.Annotations.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\System.Threading.Tasks.Extensions.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\WePay.NET.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\RestSharp.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\PayPalCoreSDK.dll
+D:\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BusinessLogic.pdb
+D:\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BussinessObjects.pdb
+D:\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+D:\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.Utilities.pdb
+D:\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.pdb
+D:\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\DocumentFormat.OpenXml.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\ExcelNumberFormat.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\itextsharp.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\log4net.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Logging.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.pdb
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Tokens.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\NuGet.Frameworks.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.pdb
+D:\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\System.Threading.Tasks.Extensions.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\WePay.NET.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\RestSharp.xml
+D:\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.pdb
+D:\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.xml
+D:\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CopyComplete
+D:\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.dll
+D:\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\csc.exe
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\System.Collections.Immutable.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\System.Reflection.Metadata.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\vbc.exe
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\VBCSCompiler.exe
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\roslyn\VBCSCompiler.exe.config
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.dll.config
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BusinessLogic.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BussinessObjects.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BouncyCastle.Crypto.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\DocumentFormat.OpenXml.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ExcelNumberFormat.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.DataAccessLayer.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.Utilities.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\itextsharp.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\log4net.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Logging.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Tokens.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.Cookies.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OAuth.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Newtonsoft.Json.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\NuGet.Frameworks.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Owin.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.ComponentModel.Annotations.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.Threading.Tasks.Extensions.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\WePay.NET.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\RestSharp.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\PayPalCoreSDK.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BusinessLogic.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\BillManagement.BussinessObjects.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.DataAccessLayer.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ISCLibrary.Utilities.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ClosedXML.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\DocumentFormat.OpenXml.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\ExcelNumberFormat.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\itextsharp.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\log4net.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Logging.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.IdentityModel.Tokens.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.Cookies.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OAuth.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\NuGet.Frameworks.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\Stripe.net.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\System.Threading.Tasks.Extensions.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\WePay.NET.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\RestSharp.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\bin\PayPalMerchantSDK.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csprojAssemblyReference.cache
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CoreCompileInputs.cache
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.Presentation.csproj.CopyComplete
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement\obj\Debug\BillManagement.pdb

@@ -1,0 +1,89 @@
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\BillManagement.BusinessLogic.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\BillManagement.BusinessLogic.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\BillManagement.BussinessObjects.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\ISCLibrary.DataAccessLayer.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\ISCLibrary.Utilities.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\Newtonsoft.Json.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\PayPalCoreSDK.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\PayPalMerchantSDK.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\RestSharp.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\EPPlus.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\BillManagement.BussinessObjects.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\ISCLibrary.DataAccessLayer.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\ISCLibrary.Utilities.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\PayPalMerchantSDK.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\PayPalMerchantSDK.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\Newtonsoft.Json.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\RestSharp.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\bin\Release\EPPlus.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\obj\Release\BillManagement.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\obj\Release\BillManagement.BusinessLogic.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BusinessLogic\obj\Release\BillManagement.BusinessLogic.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\BillManagement.BusinessLogic.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\BillManagement.BusinessLogic.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\BillManagement.BussinessObjects.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\ISCLibrary.DataAccessLayer.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\ISCLibrary.Utilities.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Newtonsoft.Json.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\PayPalCoreSDK.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\PayPalMerchantSDK.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\RestSharp.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\EPPlus.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\BillManagement.BussinessObjects.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\ISCLibrary.DataAccessLayer.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\ISCLibrary.Utilities.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\PayPalMerchantSDK.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\PayPalMerchantSDK.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Newtonsoft.Json.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\RestSharp.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\EPPlus.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\obj\Release\BillManagement.BusinessLogic.csproj.AssemblyReference.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\obj\Release\BillManagement.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\obj\Release\BillManagement.BusinessLogic.csproj.CopyComplete
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\obj\Release\BillManagement.BusinessLogic.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BusinessLogic\obj\Release\BillManagement.BusinessLogic.pdb
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\BillManagement.BusinessLogic.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\BillManagement.BusinessLogic.pdb
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\BillManagement.BussinessObjects.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\ISCLibrary.DataAccessLayer.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\ISCLibrary.Utilities.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Newtonsoft.Json.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\PayPalCoreSDK.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\PayPalMerchantSDK.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\RestSharp.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\EPPlus.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\BillManagement.BussinessObjects.pdb
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\ISCLibrary.DataAccessLayer.pdb
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\ISCLibrary.Utilities.pdb
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\PayPalMerchantSDK.pdb
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\PayPalMerchantSDK.xml
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\Newtonsoft.Json.xml
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\RestSharp.xml
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\bin\Release\EPPlus.xml
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\obj\Release\BillManagement.BusinessLogic.csproj.AssemblyReference.cache
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\obj\Release\BillManagement.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\obj\Release\BillManagement.BusinessLogic.csproj.CopyComplete
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\obj\Release\BillManagement.BusinessLogic.dll
+D:\ARCBILL\ARCBILL\BillManagement.BusinessLogic\obj\Release\BillManagement.BusinessLogic.pdb

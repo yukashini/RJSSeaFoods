@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1E1DB391-F796-4E82-802A-D590ECAF67DD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BillManagement.BusinessLogic</RootNamespace>
+    <AssemblyName>BillManagement.BusinessLogic</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Practices.EnterpriseLibrary.2008.4.1\lib\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Practices.EnterpriseLibrary.2008.4.1\lib\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Practices.EnterpriseLibrary.2008.4.1\lib\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Practices.EnterpriseLibrary.2008.4.1\lib\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Logging, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Practices.EnterpriseLibrary.2008.4.1\lib\Microsoft.Practices.EnterpriseLibrary.Logging.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Logging.Database, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Practices.EnterpriseLibrary.2008.4.1\lib\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ObjectBuilder2, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Practices.EnterpriseLibrary.2008.4.1\lib\Microsoft.Practices.ObjectBuilder2.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PayPalCoreSDK, Version=1.7.1.0, Culture=neutral, PublicKeyToken=5b4afc1ccaef40fb, processorArchitecture=MSIL">
+      <HintPath>..\packages\PayPalCoreSDK.1.7.1\lib\net451\PayPalCoreSDK.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RestSharp, Version=106.11.4.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.106.11.4\lib\net452\RestSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountsPayableList.cs" />
+    <Compile Include="AgingReportLogic.cs" />
+    <Compile Include="APAgingDetailReportLogic.cs" />
+    <Compile Include="ApplicationLogger.cs" />
+    <Compile Include="ApplicationUsers.cs" />
+    <Compile Include="ApprovalSummary.cs" />
+    <Compile Include="AudilogLogic.cs" />
+    <Compile Include="BillApprovalDetails.cs" />
+    <Compile Include="ApproverHomes.cs" />
+    <Compile Include="BillCategoryLogics.cs" />
+    <Compile Include="BillDueBasedLogic.cs" />
+    <Compile Include="BillExport.cs" />
+    <Compile Include="BillList.cs" />
+    <Compile Include="BillsOrInvoiceList.cs" />
+    <Compile Include="BillSubmission.cs" />
+    <Compile Include="BillUpload.cs" />
+    <Compile Include="BuyerViewLogic.cs" />
+    <Compile Include="CreatePurchaseOrderLogics.cs" />
+    <Compile Include="CreateInvoiceLogicVietnam.cs" />
+    <Compile Include="DeliveryConditionsLogics.cs" />
+    <Compile Include="HistoryLogic.cs" />
+    <Compile Include="LableSubssionLogic.cs" />
+    <Compile Include="Purchase360.cs" />
+    <Compile Include="PurchaseOrderLogic.cs" />
+    <Compile Include="InvoiceLogicVietnam.cs" />
+    <Compile Include="LabelMalaysia.cs" />
+    <Compile Include="MalaysiaLogics.cs" />
+    <Compile Include="PaymentTermsLogics.cs" />
+    <Compile Include="ShipperLogics.cs" />
+    <Compile Include="OrganizationLogics.cs" />
+    <Compile Include="Shipper360.cs" />
+    <Compile Include="ClientAdminLogics.cs" />
+    <Compile Include="ClientSignUpLogics.cs" />
+    <Compile Include="Common.cs" />
+    <Compile Include="ConfigurationLogics.cs" />
+    <Compile Include="CreateInvoiceLogic.cs" />
+    <Compile Include="CreateRole.cs" />
+    <Compile Include="CreateUser.cs" />
+    <Compile Include="CustomerListLogics.cs" />
+    <Compile Include="BuyerLogics.cs" />
+    <Compile Include="DesignationLogics.cs" />
+    <Compile Include="EmployeeViewLogic.cs" />
+    <Compile Include="CustomerViewLogic.cs" />
+    <Compile Include="CutomerLogics.cs" />
+    <Compile Include="DwollaLogics.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="EmployeeLogics.cs" />
+    <Compile Include="FinanceManagerHome.cs" />
+    <Compile Include="GLCodeLogics.cs" />
+    <Compile Include="Initial.cs" />
+    <Compile Include="Buyer360.cs" />
+    <Compile Include="Invoice360.cs" />
+    <Compile Include="InvoiceLogic.cs" />
+    <Compile Include="ISCExceptionService.cs" />
+    <Compile Include="KeyLists.cs" />
+    <Compile Include="ManualLog.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="CredentialLogics.cs" />
+    <Compile Include="PaymentDetails.cs" />
+    <Compile Include="PaymentMethodLogics.cs" />
+    <Compile Include="PaymentMethodsListLogics.cs" />
+    <Compile Include="PaymentStatusLogic.cs" />
+    <Compile Include="PaymentSummaryList.cs" />
+    <Compile Include="PaypalService.cs" />
+    <Compile Include="PortofDischargeListLogics.cs" />
+    <Compile Include="PortofLoadingListLogics.cs" />
+    <Compile Include="ProductLogics.cs" />
+    <Compile Include="ProjectListLogics.cs" />
+    <Compile Include="ProjectLogics.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RESTAPI.cs" />
+    <Compile Include="Role.cs" />
+    <Compile Include="StripeAccounts.cs" />
+    <Compile Include="SyncHistoryLogics.cs" />
+    <Compile Include="UserHome.cs" />
+    <Compile Include="Users.cs" />
+    <Compile Include="VendorBalanceLogic.cs" />
+    <Compile Include="VendorEditLogics.cs" />
+    <Compile Include="VendorListLogics.cs" />
+    <Compile Include="VendorProcessLogics.cs" />
+    <Compile Include="Wepaypayment.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BillManagement.BussinessObjects\BillManagement.BusinessObjects.csproj">
+      <Project>{ec8dd5f6-81e8-4312-ab4f-8ac51953053d}</Project>
+      <Name>BillManagement.BusinessObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ISCLibrary.DataAccessLayer\ISCLibrary.DataAccessLayer.csproj">
+      <Project>{e3dd7ba5-c9a1-4f10-8faa-c4057481f926}</Project>
+      <Name>ISCLibrary.DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ISCLibrary.Utilities\ISCLibrary.Utilities.csproj">
+      <Project>{b0b68b0f-c1cc-4598-b112-bf73236d00a2}</Project>
+      <Name>ISCLibrary.Utilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Paypal\PayPalMerchantSDK.csproj">
+      <Project>{1f5ff00b-ce0f-40b8-9bc4-7b5ed2087266}</Project>
+      <Name>PayPalMerchantSDK</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="obj\Debug\BillManagement.BusinessLogic.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\BillManagement.BusinessLogic.dll" />
+    <Content Include="obj\Debug\BillManagement.BusinessLogic.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\Debug\BillManagement.BusinessLogic.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+    <Folder Include="bin\Release\" />
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

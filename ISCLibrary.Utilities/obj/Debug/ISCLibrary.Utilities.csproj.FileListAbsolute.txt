@@ -1,0 +1,133 @@
+D:\Data\Project\ISC\Projects\BillManagementSVN\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.pdb
+D:\Data\Project\ISC\Projects\BillManagementSVN\ISCLibrary.Utilities\bin\Debug\EPPlus.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\ISCLibrary.Utilities\bin\Debug\Newtonsoft.Json.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\ISCLibrary.Utilities\bin\Debug\EPPlus.xml
+D:\Data\Project\ISC\Projects\BillManagementSVN\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csprojResolveAssemblyReference.cache
+D:\Data\Project\ISC\Projects\BillManagementSVN\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.Utilities\bin\Debug\EPPlus.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.Utilities\bin\Debug\Newtonsoft.Json.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.Utilities\bin\Debug\EPPlus.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csprojResolveAssemblyReference.cache
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\ISCLibrary.Utilities\bin\Debug\EPPlus.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\ISCLibrary.Utilities\bin\Debug\Newtonsoft.Json.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\ISCLibrary.Utilities\bin\Debug\EPPlus.xml
+D:\Data\Project\ISC\Projects\ArcBill_V2\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csprojResolveAssemblyReference.cache
+D:\new\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.dll
+D:\new\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.pdb
+D:\new\ISCLibrary.Utilities\bin\Debug\EPPlus.dll
+D:\new\ISCLibrary.Utilities\bin\Debug\Newtonsoft.Json.dll
+D:\new\ISCLibrary.Utilities\bin\Debug\EPPlus.xml
+D:\new\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CoreCompileInputs.cache
+D:\new\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CopyComplete
+D:\new\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.dll
+D:\new\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.pdb
+D:\new\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csprojAssemblyReference.cache
+D:\ArcBillWEB_SVN\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.dll
+D:\ArcBillWEB_SVN\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.pdb
+D:\ArcBillWEB_SVN\ISCLibrary.Utilities\bin\Debug\EPPlus.dll
+D:\ArcBillWEB_SVN\ISCLibrary.Utilities\bin\Debug\Newtonsoft.Json.dll
+D:\ArcBillWEB_SVN\ISCLibrary.Utilities\bin\Debug\EPPlus.xml
+D:\ArcBillWEB_SVN\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csprojAssemblyReference.cache
+D:\ArcBillWEB_SVN\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CoreCompileInputs.cache
+D:\ArcBillWEB_SVN\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CopyComplete
+D:\ArcBillWEB_SVN\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.dll
+D:\ArcBillWEB_SVN\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.pdb
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.dll
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.pdb
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.Utilities\bin\Debug\EPPlus.dll
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.Utilities\bin\Debug\Newtonsoft.Json.dll
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.Utilities\bin\Debug\EPPlus.xml
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csprojAssemblyReference.cache
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CoreCompileInputs.cache
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CopyComplete
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.dll
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.pdb
+D:\ArcBillWebLatest\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.dll
+D:\ArcBillWebLatest\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.pdb
+D:\ArcBillWebLatest\ISCLibrary.Utilities\bin\Debug\EPPlus.dll
+D:\ArcBillWebLatest\ISCLibrary.Utilities\bin\Debug\Newtonsoft.Json.dll
+D:\ArcBillWebLatest\ISCLibrary.Utilities\bin\Debug\EPPlus.xml
+D:\ArcBillWebLatest\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csprojAssemblyReference.cache
+D:\ArcBillWebLatest\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CoreCompileInputs.cache
+D:\ArcBillWebLatest\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CopyComplete
+D:\ArcBillWebLatest\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.dll
+D:\ArcBillWebLatest\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.pdb
+D:\ARCBILL\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.dll
+D:\ARCBILL\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.pdb
+D:\ARCBILL\ISCLibrary.Utilities\bin\Debug\EPPlus.dll
+D:\ARCBILL\ISCLibrary.Utilities\bin\Debug\Newtonsoft.Json.dll
+D:\ARCBILL\ISCLibrary.Utilities\bin\Debug\EPPlus.xml
+D:\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.AssemblyReference.cache
+D:\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CoreCompileInputs.cache
+D:\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CopyComplete
+D:\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.dll
+D:\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\EPPlus.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\Newtonsoft.Json.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\EPPlus.xml
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.AssemblyReference.cache
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CoreCompileInputs.cache
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CopyComplete
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\EPPlus.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\Newtonsoft.Json.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\EPPlus.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.AssemblyReference.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CoreCompileInputs.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CopyComplete
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\EPPlus.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\Newtonsoft.Json.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\EPPlus.xml
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csprojAssemblyReference.cache
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CoreCompileInputs.cache
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CopyComplete
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\EPPlus.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\EPPlus.xml
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CopyComplete
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.pdb
+D:\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.dll
+D:\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.pdb
+D:\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\EPPlus.dll
+D:\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\Newtonsoft.Json.dll
+D:\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\EPPlus.xml
+D:\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.AssemblyReference.cache
+D:\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CoreCompileInputs.cache
+D:\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CopyComplete
+D:\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.dll
+D:\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\ISCLibrary.Utilities.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\EPPlus.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\Newtonsoft.Json.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Debug\EPPlus.xml
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csprojAssemblyReference.cache
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CoreCompileInputs.cache
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.csproj.CopyComplete
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Debug\ISCLibrary.Utilities.pdb

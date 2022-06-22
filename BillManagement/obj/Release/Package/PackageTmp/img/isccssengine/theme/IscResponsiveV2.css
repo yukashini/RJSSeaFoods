@@ -1,0 +1,246 @@
+﻿@media only screen and (max-width: 600px) {
+    .mobile-logo {
+        padding-top: 12px !important;
+    }
+
+    .isc-manger-home-par-con-s1 {
+        padding: 0px !important;
+        border: none !important;
+    }
+
+    .isc-hme-sec-kpi-nav-s1 li {
+        width: 100% !important;
+    }
+
+        .isc-hme-sec-kpi-nav-s1 li a {
+            border: none !important;
+            padding: 8px 38px !important;
+        }
+
+
+    .isc-page-header {
+        width: 250% !important;
+    }
+
+    .div-col-40per {
+        width: 100% !important;
+    }
+
+    .div-col-15per {
+        width: 25% !important;
+    }
+
+    .isc-sec-in-con-y-scroll-con-s1 {
+        width: 100% !important;
+    }
+
+    .div-col-60per {
+        width: 100% !important;
+    }
+
+    .div-col-50per {
+        width: 100% !important;
+    }
+
+    .div-col-35per {
+        width: 100% !important;
+    }
+
+   
+
+    .modal-dialog {
+        width: 95% !important;
+    }
+
+    .pad-lft-15 {
+        padding: 0px !important;
+    }
+
+    .isc-table-read-optimal {
+        table-layout: unset !important;
+    }
+
+        .isc-table-read-optimal td {
+            padding: 5px !important;
+        }
+
+    .isc-app-screen-header-container {
+        padding: 10px 17px 10px 17px !important;
+    }
+
+    .header-logo-mobile {
+        font-size: 16px !important;
+    }
+
+    .isc-hme-sec-kpi-nav-cir-icon {
+        height: 30px !important;
+        width: 30px !important;
+    }
+
+        .isc-hme-sec-kpi-nav-cir-icon i {
+            font-size: 15px !important;
+            line-height: 26px !important;
+        }
+
+    .isc-hme-sec-kpi-nav-cir-icon {
+        left: -1px !important;
+        top: 11px !important;
+    }
+
+    .content-foot {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        margin: 0 auto;
+        width: 300px;
+    }
+
+    .isc-tab-src-cont-res {
+        overflow-x: auto;
+    }
+
+        .isc-tab-src-cont-res::-webkit-scrollbar {
+            width: 4px !important;
+        }
+
+    .tab-screen-pip-s1 li a span {
+        height: 15px !important;
+        width: 20px !important;
+        line-height: 14px !important;
+        top: 11px !important;
+    }
+
+    .isc-upd-bill-cont {
+        margin-top: 10px !important;
+    }
+
+    .isc-file-upload-in-con i {
+        font-size: 20px !important;
+        line-height: 20px !important;
+    }
+
+    .isc-file-upload-in-con h2 {
+        font-size: 12px !important;
+        line-height: 20px !important;
+    }
+
+        .isc-file-upload-in-con h2 span {
+            font-size: 12px !important;
+        }
+
+    .isc-bill-tck-snr-img {
+        height: 35px !important;
+        width: 35px !important;
+    }
+    label{
+        font-size:12px !important;
+    }
+    .form-control{
+            font-size: 12px !important;
+                margin-top: 5px !important;
+                width:100% !important;
+    }
+     .isc-bill-trk-sec-wid .select2-container {
+        width:100% !important;
+    }
+     .select2-container--default .select2-selection--single .select2-selection__rendered{
+             color: #000 !important;
+    font-size: 12px !important;
+     }
+     .select2-container--default .select2-selection--single{
+         margin-top:5px !important;
+     }
+     .isc-apr-cmt-mar{
+         margin-bottom:10px !important;
+     }
+     .isc-chrt-sec-bdy-scroll{
+         overflow-x:auto !important;
+     }
+     .isc-lst-scrl-cont{
+        overflow-x:auto !important;
+     }
+     .div-col-80per{
+         width:100% !important;
+     }
+     
+     .div-col-20per{
+          width:100% !important;
+     }
+     .isc-bill-trk-com-box{
+         margin-top:10px;
+         padding:5px !important;
+     }
+     .pad-lft-12{
+         padding:0px !important;
+     }
+     .iscdatepicker{
+        
+     }
+     .isc-filter-container{
+         border:none!important;
+     }
+     .isc-filter-container .pad-lft-15{
+         padding:0px !important;
+     }
+     .isc-table-read-optimal tr th:last-child{
+         width:140px !important;
+     }
+        .isc-table-read-optimal tr td:last-child{
+         width:140px !important;
+     }
+        .isc-table-read-optimal tr td .isc-action-badge-td-s1{
+           width:14px !important;
+           float:left;
+           display:block;
+        }
+        .tab-screen-pip-s1 li{
+            float:none;
+            display:inline-block;
+            width:32.33%;
+        }
+        .screen-tab-container-s5{
+            height:auto;
+        }
+        .tab-screen-pip-s1 li.active a{
+            border-width:1px ;
+
+        }
+        .isc-action-badge-td-s1 i{
+            font-size:13px;
+        }
+        .isc-bill-apr-det-cont{
+            border:none;
+            margin-top:10px;
+        }
+        .isc-make-pay{
+            height:16px;
+            width:16px;
+        }
+        .isc-bill-trk-wdth .select2-container{
+            width:100% !important;
+        }
+        .pad-lft-5 {
+            padding:0px !important;
+        }
+        .cell-left{
+            float:none !important;
+        }
+        .iscdatpkrwdt{
+            width:200px !important;
+        }
+        .pad-lft-med{
+           padding-left:5px ;
+        }
+      
+        .isc-upl-bill-emp{
+           display:none !important;
+        }
+        .isc-wdt-max{
+            width:100% !important;
+        }
+        .isc-wid-40per{
+            width:40% !important;
+            float:left;
+        }
+
+}

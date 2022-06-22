@@ -1,0 +1,80 @@
+D:\Data\Project\ISC\Projects\BillManagementSVN\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\Data\Project\ISC\Projects\BillManagementSVN\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Data\Project\ISC\Projects\BillManagementSVN\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\new\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.dll
+D:\new\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\new\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\new\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.dll
+D:\new\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\new\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csprojAssemblyReference.cache
+D:\ArcBillWEB_SVN\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.dll
+D:\ArcBillWEB_SVN\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\ArcBillWEB_SVN\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csprojAssemblyReference.cache
+D:\ArcBillWEB_SVN\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ArcBillWEB_SVN\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.dll
+D:\ArcBillWEB_SVN\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.dll
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csprojAssemblyReference.cache
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.dll
+D:\ArcBillWeb15-0921UiUodate\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\ArcBillWebLatest\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.dll
+D:\ArcBillWebLatest\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\ArcBillWebLatest\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csprojAssemblyReference.cache
+D:\ArcBillWebLatest\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ArcBillWebLatest\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.dll
+D:\ArcBillWebLatest\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\ARCBILL\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.dll
+D:\ARCBILL\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csproj.AssemblyReference.cache
+D:\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.dll
+D:\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csproj.AssemblyReference.cache
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csproj.AssemblyReference.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csprojAssemblyReference.cache
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.dll
+D:\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.pdb
+D:\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csproj.AssemblyReference.cache
+D:\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.dll
+D:\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Debug\ISCLibrary.DataAccessLayer.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csprojAssemblyReference.cache
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Debug\ISCLibrary.DataAccessLayer.pdb

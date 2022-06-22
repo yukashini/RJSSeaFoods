@@ -1,0 +1,801 @@
+﻿@media only screen and (max-width: 767px) {
+    .mobile-logo {
+        padding-top: 12px !important;
+    }
+
+    .isc-manger-home-par-con-s1 {
+        padding: 0px !important;
+        border: none !important;
+    }
+
+    .isc-hme-sec-kpi-nav-s1 li {
+        width: 100% !important;
+    }
+
+        .isc-hme-sec-kpi-nav-s1 li a {
+            border: none !important;
+            padding: 8px 38px !important;
+        }
+
+
+    .isc-page-header {
+        width: 250% !important;
+    }
+
+    .div-col-40per {
+        width: 100% !important;
+    }
+
+    .div-col-15per {
+        width: 25% !important;
+    }
+    .div-col-25per  {
+        width:100%;
+    }
+    .isc-sec-in-con-y-scroll-con-s1 {
+        width: 100% !important;
+    }
+
+    .div-col-60per {
+        width: 100% !important;
+    }
+
+    .div-col-50per {
+        width: 100% !important;
+    }
+
+    .div-col-35per {
+        width: 100% !important;
+    }
+
+   
+
+    .modal-dialog {
+        width: 95% !important;
+    }
+
+    .pad-lft-15 {
+        padding: 0px !important;
+    }
+
+    .isc-table-read-optimal {
+        table-layout: unset !important;
+    }
+
+        .isc-table-read-optimal td {
+            padding: 5px !important;
+        }
+
+    .isc-app-screen-header-container {
+        padding: 10px 17px 10px 17px !important;
+    }
+
+    .header-logo-mobile {
+        font-size: 16px !important;
+    }
+
+    .isc-hme-sec-kpi-nav-cir-icon {
+        height: 30px !important;
+        width: 30px !important;
+    }
+
+        .isc-hme-sec-kpi-nav-cir-icon i {
+            font-size: 15px !important;
+            line-height: 26px !important;
+        }
+
+    .isc-hme-sec-kpi-nav-cir-icon {
+        left: -1px !important;
+        top: 11px !important;
+    }
+
+    .content-foot {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        margin: 0 auto;
+        width: 335px;
+        font-size: 11px;
+        font-weight: bold;
+    }
+
+    .isc-tab-src-cont-res {
+        overflow-x: auto;
+    }
+
+        .isc-tab-src-cont-res::-webkit-scrollbar {
+            width: 4px !important;
+        }
+
+    .tab-screen-pip-s1 li a span {
+        height: 15px !important;
+        width: 20px !important;
+        line-height: 14px !important;
+        top: 11px !important;
+    }
+
+    .isc-upd-bill-cont {
+        margin-top: 10px !important;
+    }
+
+    .isc-file-upload-in-con i {
+        font-size: 20px !important;
+        line-height: 20px !important;
+    }
+
+    .isc-file-upload-in-con h2 {
+        font-size: 12px !important;
+        line-height: 20px !important;
+    }
+
+        .isc-file-upload-in-con h2 span {
+            font-size: 12px !important;
+        }
+
+    .isc-bill-tck-snr-img {
+        height: 35px !important;
+        width: 35px !important;
+    }
+    label{
+        font-size:12px !important;
+    }
+    .form-control{
+            font-size: 12px !important;
+                margin-top: 5px !important;
+                width:100% !important;
+    }
+     .isc-bill-trk-sec-wid .select2-container {
+        width:100% !important;
+    }
+     .select2-container--default .select2-selection--single .select2-selection__rendered{
+             color: #000 !important;
+    font-size: 12px !important;
+     }
+     .select2-container--default .select2-selection--single{
+         margin-top:5px !important;
+     }
+     .isc-apr-cmt-mar{
+         margin-bottom:10px !important;
+     }
+     .isc-chrt-sec-bdy-scroll{
+         overflow-x:auto !important;
+     }
+     .isc-lst-scrl-cont{
+        overflow-x:auto !important;
+     }
+     .div-col-80per{
+         width:100% !important;
+     }
+     
+     .div-col-20per{
+          width:100% !important;
+     }
+     .isc-bill-trk-com-box{
+         margin-top:10px;
+         padding:5px !important;
+     }
+     /*.pad-lft-12{
+         padding:0px !important;
+     }*/
+     .iscdatepicker{
+        
+     }
+     .isc-filter-container{
+         border:none!important;
+     }
+     .isc-filter-container .pad-lft-15{
+         padding:0px !important;
+     }
+     .isc-table-read-optimal tr th:last-child{
+         width:140px !important;
+     }
+        .isc-table-read-optimal tr td:last-child{
+         width:140px !important;
+     }
+        /*.isc-table-read-optimal tr td .isc-action-badge-td-s1{
+           width:14px !important;
+           float:left;
+           display:block;
+        }*/
+        .tab-screen-pip-s1 li{
+            float:none;
+            display:inline-block;
+            width:32.33%;
+        }
+        .screen-tab-container-s5{
+            height:auto;
+        }
+        .tab-screen-pip-s1 li.active a{
+            border-width:1px ;
+
+        }
+        .isc-action-badge-td-s1 i{
+            font-size:13px;
+        }
+        .isc-bill-apr-det-cont{
+            border:none;
+            margin-top:10px;
+        }
+        .isc-make-pay{
+            height:16px;
+            width:16px;
+        }
+        .isc-bill-trk-wdth .select2-container{
+            width:100% !important;
+        }
+        .pad-lft-5 {
+            padding:0px !important;
+        }
+      
+        .iscdatpkrwdt{
+            /*width:200px !important;*/
+        }
+
+        .pad-lft-med{
+           padding-left:5px ;
+        }
+      
+        .isc-upl-bill-emp{
+           display:none !important;
+        }
+        
+        .isc-wid-40per{
+            width:40% !important;
+            float:left;
+        }
+        .div-col-30per{
+            width:100%;
+            float:left;
+        }
+         .div-col-70per{
+            width:100%;
+            float:left;
+        }
+         .isc-app-screen-header-container{
+             height:80px !important;
+         }
+         .isc-mbl-rsp-kpi .div-col-25per{
+             width:100% !important;
+             float:left;
+         }
+     
+         #tbl-Bills_wrapper{
+             overflow-x:auto;
+         }
+         .isc-mb-res-pad-lft-15{
+             padding-left:15px;
+         }
+         .dropdown-menu-entity{
+             right:8px;
+             /*width:82px;*/
+         }
+         .div-col-75per{
+             width:100%;
+             float:left;
+         }
+         .div-col-25per{
+              width:100%;
+             float:left;
+         }
+         .isc-nested-list-dd-s2 li > a{
+             padding:0px 8px;
+         }
+         .isc-flt-hgt-mb-res{
+             height:162px;
+         }
+         .isc-mar-lft-10-mb-res{
+             margin-left:10px;
+         }
+         .isc-usr-sub-btn{
+             top:-24px;
+         }
+         .div-col-38per{
+             width:100%;
+             float:left;
+         }
+         .modal-dialog{
+             width:40% !important;
+         }
+         .isc-up-bill-lft-cont{
+             padding:0px;
+         }
+         .isc-crt-bill-view{
+             left:50% !important;
+         }
+         .modal-body .div-col-35per{
+             width: 35% !important;
+    float: left;
+         }
+        .modal-body .div-col-65per {
+    width: 65% !important;
+    float: left;
+}
+        .isc-up-bill-rgt-cont {
+    padding: 0px ;
+}
+        .isc-cus-var1{
+ padding: 0px ;
+        }
+        .isc-top-unset-mb-res{
+            top:0px !important;
+        }
+        .isc-frm-cont-mb-res{
+            width:200px !important;
+        }
+        .isc-mar-rgt-neg-mb-res{
+            margin-right:1px !important;
+        }
+        .split-amount{
+               right: 57% !important;
+    overflow: scroll;
+    width: 36%;
+    height: 400px;
+    top:54px;
+        }
+        .isc-due-date-to-wdt{
+            width:95px !important;
+        }
+        .isc-mb-res-sts .select2-container{
+            width:250px !important;
+        }
+        .isc-filter-container-close {
+   top: -7px;
+  
+}
+ .isc-mb-res-pay-det .div-col-35per{
+     width:35% !important;
+     float:left;
+ } 
+  .isc-mb-res-pay-det .div-col-50per{
+     width:50% !important;
+     float:left;
+ }  
+   .isc-mb-res-pay-det-popup .div-col-40per{
+     width:40% !important;
+     float:left;
+ } 
+     .isc-mb-res-pay-det-popup .div-col-30per{
+     width:30% !important;
+     float:left;
+ }
+  .isc-mb-res-pay-det-popup .div-col-55per{
+     width:55% !important;
+     float:left;
+ }     
+  
+  .div-col-25per.pad-lft-12.isc-mbl-mar-top-10{
+       padding-left:0px !important;
+  }
+  .isc-mar-to-unset{
+      top:0px !important;
+  }
+  .isc-ven-edit-cont1{
+      height:250px
+  }
+  .div-col-15per{
+      width:50% !important;
+  }
+  .isc-pad-lft-65{
+      padding-left:0px !important;
+  }
+  .isc-g-b{
+      margin:0px !important;
+  }
+  .isc-pad-l-75{
+padding-left:0px !important;
+  }
+  .isc-wid-14 {
+    width: 35% !important;
+}
+  .isc-wid-8 {
+    width: 27% !important;
+    float: left;
+}
+  .isc-mb-res-txt-box{
+      width:200px !important;
+  }
+  .isc-filter-container .select2-container{
+        width:200px !important;
+  }
+  .isc-filter-container{
+      padding:0px;
+  }
+  .mar-rgt-20{
+      margin-right:12px ;
+  }
+  .isc-lbl-vry-sm-txt-s1{
+      font-size:10px;
+  }
+  .isc-mb-res-pad-10{
+      padding:10px;
+  }
+  .isc-pay-btn-cont {
+ padding-left: 0px !important;
+   padding-top: 0px !important;
+    margin-bottom: 36px;
+}
+  .pad-rig-5 {
+    padding-right: 4px;
+}
+  .isc-mb-res-neg-mar{
+      margin-left:-1px;
+  }
+  .isc-mb-res-wd-35{
+      width:35% !important;
+      float:left;
+  }
+  .div-col-95per {
+    width: 80%;
+    float: left;
+}
+ .pad-lft-max {
+    padding-left: 10px;
+}
+ .isc-profile-icon-letter{
+     top:16px;
+     right:20px;
+ }
+ .isc-app-login-cell-s1{
+     width:unset;
+ }
+ .div-col-41per{
+     width:40%;
+     float:left;
+ }
+ .div-col-59per{
+     width:40%;
+     float:left;
+ }
+  .isc-login-con {
+    padding: 30px 10px 30px 10px !important;
+}
+  .isc-left-log-cont p{
+      font-size:11px !important;
+  }
+  .login-img1{
+height:30px;
+}
+.isc-login-bg {
+    left: 51% !important;
+    width: 48% !important;
+}
+
+.isc-login-con h1{
+    font-size:14px !important;
+}
+.isc-left-log-cont h5{
+    font-size:11px !important;
+}
+ .login-img1 {
+    height: 39px;
+}
+ .isc-login-con isc-login-panel h1{
+     font-size:14px;
+ }
+ .isc-login-act h1{
+     font-size:8px !important;
+     margin:0px 0px 5px 0px !important;
+ }
+ .isc-login-details-con h5 {
+    /*margin: 0px 0px !important;*/
+    font-size: 11px !important;
+    line-height: 13px !important;
+   
+}
+ .isc-app-screen-body-container{
+     overflow-x:hidden;
+ }
+ .isc-filter-container .div-col-20per{
+     margin-top:10px;
+ }
+ .isc-new-pop-up .modal-dialog{
+     position:unset;
+ }
+ .isc-new-pop-up .modal-body{
+     min-height: 200px;
+    max-height: 420px;
+    /*height:unset !important;*/
+    overflow:auto;
+    overflow-x:hidden;
+    margin-bottom:45px;
+    }
+ .isc-new-pop-up .modal-dialog{
+     width:94% !important;
+ }
+ .modal.in .modal-dialog{
+     width:95% !important;
+     margin:10px;
+ }
+ .div-col-65per{
+ 
+ }
+ html{
+     overflow:hidden;
+ }
+ /*#tbl-Bill-Body .pad-lft-5{
+     padding-left:5px !important;
+ }*/
+ #tbl-Vendors-Bdy .pad-lft-5{
+     padding-left:5px !important;
+ }
+ #tbl-Customers .pad-lft-5{
+     padding-left:5px !important;
+ }
+ .isc-bill-mb-re-30{
+     margin-top:30px;
+ }
+ .isc-mb-mar-unset{
+     margin-top:unset;
+ }
+ .isc-mb-res-tab-scr{
+     overflow-x:auto;
+ }
+ .isc-frm-pad-10{
+     padding:10px !important;
+ }
+ .isc-new-thm-pad{
+     padding:0px 20px !important;
+ }
+ .isc-mar-lft-7{
+     margin-left:7px;
+ }
+ 
+ /*.isc-exp-due{
+     width:170px !important;
+ }*/
+ .isc-exp-sts{
+     width:96px !important;
+ }
+ .isc-exp-sts .isc-filter-container .select2-container{
+     width:228px !important;
+ }
+ .isc-new-thm-mar{
+     margin:10px 20px!important;
+ }
+ .div-col-06per{
+     width:100% !important;
+ }
+ .isc-vde-dtl-tab-mb .div-col-30per{
+     width:45% !important;
+ }
+ .isc-vde-dtl-tab-mb .div-col-55per label{
+     width:80% !important;
+     overflow:hidden;
+     white-space:nowrap;
+     text-overflow:ellipsis;
+ }
+ .isc-vde-dtl-tab-mb .mar-top-10{
+     margin:unset;
+ }
+.navbar-default .mobile-submenu > li > a .icon-rmv:after{
+    content:unset;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow{
+    top:7px;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button{
+    padding:3px 2px;
+    margin-bottom:10px;
+    
+}
+.dataTables_wrapper .dataTables_paginate{
+    width:400px;
+}
+
+.isc-usr-hme-bdy-sec1{
+    margin-bottom:15px;
+}
+#bill-Association-Block{
+    margin-bottom:15px;
+}
+#tbl-paypal-transaction{
+    margin-bottom:10px;
+}
+.notifyjs-corner{
+    right:10px !important;
+   }
+.notifyjs-corner span{
+    font-size:12px !important;
+   }
+.dropdown-menu-entity li .pad-lft-5{
+    padding:0px !important;
+}
+.isc-action-badge-td-s1 i.fa.fa-ellipsis-h{
+    padding-left:5px !important;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+    background-color:unset;
+} 
+.isc-clt-flt{
+    margin-top:10px;
+    margin-left:0px !important;
+}
+.isc-vnd-flt{
+    margin-bottom:10px;
+    margin-left:0px !important;
+}
+.isc-mb-dots{
+    margin-top:10px !important;
+}
+.mobile-logo{
+    margin-left:22px;
+}
+.isc-left-log-cont h5{
+    left:0px !important;
+}
+.isc-mb-wdt-20{
+    width:20% !important;
+    float:left;
+}
+.isc-mb-wdt-80{
+    width:80% !important;
+    float:left;
+}
+.isc-vnd-name-mb{
+    width:280px;
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+}
+.header-logo-mobile{
+    color:#000;
+}
+.isc-hegt-unset-mb{
+    height:unset;
+}
+.isc-mb-dsp-blk{
+    display:block !important;
+    width:102% !important;
+}
+.isc-screen-nav-container-s1 ul li a{
+    padding:6px;
+}
+    .isc-mbl-mar-top-10{
+             margin-top:10px !important;
+         }
+    .isc-vnd-msg-btn{
+        top:7px !important;
+    }
+    .isc-mb-res-pay-det-popup .isc-mb-wdt-50
+   {
+        width:45% !important;
+    }
+  .isc-lft-icon{
+    left:193px;
+}
+  .isc-mar-top-8{
+      margin-top:13px !important;
+  }
+  .fs-dropdown{
+      z-index:99999 !important;
+      margin-top:0px;
+  }
+  .fs-label-wrap{
+          height: 32px;
+    line-height: 19px;
+    border-radius: 3px !important;
+  }
+  .isc-ext-cls{
+      top:-17px;
+  }
+  .isc-mb-wdt-45{
+      width:45% !important;
+      float:left;
+  }
+  .daterangepicker.dropdown-menu{
+      min-height:200px;
+      max-height:250px;
+      overflow-y:scroll;
+      z-index:999999;
+  }
+   .daterangepicker.dropdown-menu::-webkit-scrollbar{
+       width:6px;
+   }
+   .isc-login-act{
+       display:block !important;
+   }
+   .isc-pay-btn-cont{
+       text-align:center;
+   }
+   .isc-new-sldr .isc-split-width{
+       width:100%;
+   }
+   .isc-new-sldr .split-amount{
+       width:94%;
+       margin:10px;
+       right:0px !important;
+       overflow-x:hidden;
+   }
+   .isc-mb-mar-lft-5{
+       margin-left:5px;
+   }
+   .isc-mb-wdt-90{
+       width:90% !important;
+       float:left;
+   }
+    .isc-mb-wdt-10{
+       width:10% !important;
+       float:left;
+   }
+    .dropdown-menu-s3:after{
+        right:10%;
+    }
+    .dropdown-menu-s3{
+        top:48px;
+    }
+    .isc-wdt-max{
+            width:100% !important;
+        }
+    .split-width{
+        width:unset;
+    }
+    .split-amount{
+        width: 94%;
+    right: 10px !important;
+    left: 10px !important;
+    }
+    .isc-mb-wdt-60{
+        width:60% !important;
+        float:left;
+    }
+    .isc-mb-wdt-40{
+        width:40% !important;
+        float:left;
+    }
+}
+@media only screen and (max-width: 1024px) {
+   /* .isc-app-screen-header-container .div-col-30per{
+        width:50%;
+        float:left;
+    }
+    .isc-app-screen-header-container .div-col-70per{
+        width:50%;
+        float:left;
+    }
+    .isc-app-screen-header-container{
+        height:unset;
+    }
+   
+    .isc-filter-container-close {
+    position: absolute;
+    top: 0px;
+    right: -5px;
+}
+    
+  .isc-app-screen-body-container{
+      height:595px !important;
+  }
+    .slds-context-footer-bar{
+        bottom:unset;
+    }
+    .isc-usr-hme-bdy-sec1{
+        margin-top:10px;
+    }
+    .isc-scr-sec-hdr-s1{
+        width:107px;
+    }*/
+        .isc-filter-container
+    {
+        border:unset;
+    }
+           .isc-tab-src-cont-res {
+        overflow-x: auto;
+    }
+             .isc-lst-scrl-cont{
+        overflow-x:auto !important;
+     }
+             .isc-app-screen-body-container{
+                height: calc(100vh - 163px) !important;
+               
+             }
+             .slds-context-footer-bar{
+                 position:inherit;
+             }
+             .slider{
+                 margin:unset;
+                 min-height:unset;
+             }
+             .isc-app-login-cell-s1{
+                 width:unset;
+             }
+}

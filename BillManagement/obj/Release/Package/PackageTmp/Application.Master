@@ -1,0 +1,835 @@
+﻿    <%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Application.Master.cs" Inherits="BillManagement.ApplicationMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>RJSSeaFood | HarkTechs</title>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="RJSSeaFood | HarkTechs" name="description" />
+    <meta content="Hark Technologies" name="author" />
+
+    <link rel="shortcut icon" href="img/rjs-fav.png" />
+    <!-- BEGIN GLOBAL MANDATORY STYLES -->
+    <link href="isccssengine/lib/font-awesome/font-awesome.min.css" rel="stylesheet"
+        type="text/css" />
+    <link href="isccssengine/lib/simple-line-icons/simple-line-icons.min.css" rel="stylesheet"
+        type="text/css" />
+
+
+
+
+    <link href="isccssengine/lib/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <%--  <link href="isccssengine/lib/fonts/bootstrap-glyphicons.css" rel="stylesheet" />--%>
+    <link href="isccssengine/lib/select2.min.css" rel="stylesheet" type="text/css" />
+    <link href="isccssengine/lib/fSelect.css" rel="stylesheet" />
+    <link href="isccssengine/lib/bootstrap-select.min.css" rel="stylesheet" />
+    <%-- <link href="isccssengine/lib/bootstrap-glyphicons.css" rel="stylesheet" />--%>
+    <link href="isccssengine/lib/fonts/bootstrap-glyphicons.css" rel="stylesheet" />
+
+    <link href="isccssengine/lib/jquery.nestable.css" rel="stylesheet" type="text/css" />
+    <link href="isccssengine/lib/jquery.scrolling-tabs.css" rel="stylesheet" type="text/css" />
+    <link href="isccssengine/lib/jquery.dataTables.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="isccssengine/lib/jstree.css" rel="stylesheet" type="text/css" />
+    <link href="isccssengine/common/plugins.css" rel="stylesheet" type="text/css" />
+    <!-- END GLOBAL MANDATORY STYLES -->
+    <!-- BEGIN THEME STYLES -->
+
+    <link href="isccssengine/common/components.css" rel="stylesheet" type="text/css" />
+    <link href="isccssengine/common/layout.css" rel="stylesheet" type="text/css" />
+    <link href="isccssengine/common/default.css" rel="stylesheet" type="text/css" />
+    <link href="isccssengine/theme/iscotherthemestyles.css" rel="stylesheet" type="text/css" />
+    <link href="isccssengine/theme/iscourcharts.css" rel="stylesheet" type="text/css" />
+    <link href="isccssengine/theme/iscsupport.css" rel="stylesheet" type="text/css" />
+    <link href="isccssengine/lib/fonts/bootstrap-glyphicons.css" rel="stylesheet" />
+    <link href="isccssengine/theme/iscoverridestyles.css" rel="stylesheet" type="text/css" />
+    <link href="isccssengine/lib/daterangepicker.css" rel="stylesheet" />
+    <link href="isccssengine/lib/datepicker.css" rel="stylesheet" />
+    <link href="isccssengine/theme/iscglobal.css?v1.0" rel="stylesheet" type="text/css" />
+
+    <link href="isccssengine/lib/timeline.min.css" rel="stylesheet" />
+    <link href="isccssengine/lib/uniform.default.css" rel="stylesheet" type="text/css" />
+
+
+    <link href="isccssengine/theme/iscresponsive.css" rel="stylesheet" type="text/css" />
+    <link href="isccssengine/theme/T35Home.css" rel="stylesheet" />
+    <link href="scripts/T37-ChartControls/nv.d3.css" rel="stylesheet" />
+    <link href="isccssengine/theme/T35responsive.css" rel="stylesheet" />
+    <link href="isccssengine/lib/Custom.css" rel="stylesheet" />
+     <link href="isccssengine/theme/IscRefine.css" rel="stylesheet" />
+    <link href="isccssengine/theme/IscResponsiveV2.css" rel="stylesheet" />
+
+    <link href="isccssengine/lib/joditmin1.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js"> </script>
+
+    <script src="iscjsengine/lib/jquery-1.11.0.min.js" type="text/javascript"></script>
+    <script src="iscjsengine/lib/init.js" type="text/javascript"></script>
+    <script src="iscjsengine/lib/jquery.dataTables.min.js" type="text/javascript"></script>
+    <script src="iscjsengine/lib/jquery.tablesorter.min.js" type="text/javascript"></script>
+    <script src="iscjsengine/lib/bootstrap-datepicker.js" type="text/javascript"></script>
+    <script src="iscjsengine/lib/switchzoomscreen.js"></script>
+
+    <script src="iscjsengine/lib/bootstrap.min.js" type="text/javascript"></script>
+    <script src="iscjsengine/lib/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+    <%--<script src="iscjsengine/lib/jquery-ui-1.10.3.custom.min.js" type="text/javascript"></script>--%>
+    <script src="iscjsengine/lib/jquery.slimscroll.min.js" type="text/javascript"></script>
+
+    <script src="iscjsengine/lib/moment.js"></script>
+    <script src="iscjsengine/lib/jquery.scrolling-tabs.js" type="text/javascript"></script>
+    <script src="iscjsengine/common/layout.js" type="text/javascript"></script>
+    <script src="iscjsengine/lib/ISCUtilities.js" type="text/javascript"></script>
+    <script src="iscjsengine/IF2/Library/Utilities.js" type="text/javascript"></script>
+    <script src="iscjsengine/IF2/Library/ApplicationProperties.js" type="text/javascript"></script>
+    <script src="iscjsengine/lib/jquery.uniform.min.js" type="text/javascript"></script>
+    <script src="iscjsengine/PageScript/ServerRequests.js" type="text/javascript"></script>
+    <script src="iscjsengine/IF2/Library/JsonManipulation.js" type="text/javascript"></script>
+    <script src="iscjsengine/PageScript/Master.js" type="text/javascript"></script>
+    <script src="iscjsengine/lib/select2.full.min.js" type="text/javascript"></script>
+    <script src="iscjsengine/lib/fSelect.js"></script>
+    <script src="iscjsengine/lib/bootstrap-select.min.js"></script>
+    <script src="iscjsengine/lib/daterangepicker.js" type="text/javascript"></script>
+    <%--  Chart include in Application--%>
+    <script src="scripts/FIPControls/jquery.sparkline.js"></script>
+    <script src="Scripts/T37-ChartControls/d3.v3.js" type="text/javascript"></script>
+    <script src="Scripts/T37-ChartControls/nv.d3.js" type="text/javascript"></script>
+    <script src="Scripts/T37-ChartControls/tooltip.js" type="text/javascript"></script>
+    <script src="scripts/FIPControls/ISC-dountChart.js"></script>
+    <script src="iscjsengine/common/jquery.mask.js"></script>
+    <script src="iscjsengine/internal/demo/jquery.mask.min.js"></script>
+    <script src="iscjsengine/common/jquery.maskMoney.js"></script>
+    <%--<script src="iscjsengine/common/datable.js"></script>--%>
+    <script src="iscjsengine/lib/Jodit2.js"></script>
+
+    <script src="iscjsengine/common/notify.min.js"></script>
+    <%--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.10/jquery.mask.js"></script>--%>
+  
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="isc-app-body-container">
+    <form id="form1" runat="server">
+        <div class="isc-app-main-layout-container ">
+            <div class="isc-app-main-top-layout-container  hidden-xs hidden-sm">
+                <div class="isc-app-top-brand-title-s1">
+                    <ul class="isc-cp-hdr-icon">
+                         <li>
+                        <div class="sidebar-toggler hidden-phone">
+                          <%--<i class="fa fa-ellipsis-v" aria-hidden="true"></i>--%>
+                          <%-- <i class="fa fa-ellipsis-v" aria-hidden="true"></i>--%>
+                           <%-- <i class="fa fa-ellipsis-v" aria-hidden="true"></i>--%>
+                            <img src="images/threedots.png" />
+                        </div>
+                    </li>
+                           </ul>
+                    <a id="FullScreenMode">
+                        <h3 class="header-logo" style="font-family:'Times New Roman', Times, serif ; color:#936e6d"  >RJS Sea Foods </h3>
+                        
+                    </a>
+                </div>
+
+                <div class="isc-app-login-cell-s1">
+                    <%-- <div class="cell-left isc-header-border-lft-drop">
+                        <div class="sub-header-right-side-align ">
+
+                            <select class="selectpicker isc-multi-select-drop custom-prop-set" multiple title=" Choose Department " data-live-search="true">
+                                <option>Admin</option>
+                                <option>Development</option>
+                                <option>Human Resource</option>
+                                <option>Marketing</option>
+                                <option>Sales</option>
+                            </select>
+
+
+                        </div>
+                    </div>--%>
+                    <div class="cell-left pad-rgt-15 isc-header-border-lft-drop">
+                        <%-- <div class="sub-header-right-side-align ">
+
+                            <select class="selectpicker isc-multi-select-drop custom-prop-set" multiple title=" Choose Business Unit " data-live-search="true">
+                                <option>VTS</option>
+                                <option>ISC</option>
+
+                            </select>
+
+
+                        </div>--%>
+                    </div>
+
+                    <div class="cell-left ">
+                        <%-- <a class="isc-hme-hdr-question" title="Add"><i class="fa fa-plus-square"></i>
+                        </a>
+                        <a class="isc-hme-hdr-question" title="Help "><i class="fa fa-question "></i>
+                        </a>
+                        <a class="isc-hme-hdr-question" title="Setting " data-toggle="dropdown" data-close-others="true"><i class="fa fa-cog "></i>
+                        </a>
+                        <a class="isc-hme-hdr-question" title="Notification " data-toggle="dropdown" data-close-others="true"><i class="icon-bell dropdown-toggle"></i>
+                        </a>--%>
+                        <%--<div class="dd-isc-hdr-ques-act" role="menu">
+                            <ul class="isc-hme-hdr-dd-ques-list">
+                                <li><a href="#"><i class="fa fa-comments-o"></i>Provide feedback</a></li>
+                                <li><a href="#"><i class="fa fa-desktop "></i>Technical support </a></li>
+                            </ul>
+                        </div>--%>
+                    </div>
+                    <%--<h3 class="isc-app-brand-log-s1">John Smith</h3>
+                    <h3 class="isc-app-brand-log-s2">
+                        <a href="RJSLogin.aspx">Logout</a></h3>--%>
+
+                    <div class="cell-right">
+                        <%--   <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <img class="login-out-img" src="img/avatar3_small.jpg" /></a>--%>
+                        <a href="#" class="isc-profile-icon-letter LoggedinUserShortName" id="logined-User" data-toggle="dropdown" style="background-color: #1589ee !important;"></a>
+                        <div class="dropdown-menu-s3 " role="menu">
+                            <div class="dropdown-menu-inner-con-s3">
+                                <div class="screen-row">
+                                    <div class="text-center">
+                                        <div class="screen-row" style="margin-bottom: 10px;border-bottom:1px solid #eee;">
+                                            <div class="div-col-20per">
+                                                <h3 class="isc-act-read-list-cell-cir-log-s2 isc-act-read-list-bg-s4 LoggedinUserShortName" id="ShortName"></h3>
+                                            </div>
+                                            <div class="div-col-80per">
+                                                <h4 id="Logger" class="isc-logger-name"></h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="screen-row">
+
+                                        <ul class="dropdown-user">
+
+
+                                            <li role="separator" class="divider"></li>
+                                            <li><a data-changepasscode="true"><i class="fa fa-pencil"></i>Change Password</a></li>
+                                            <%-- <li><a href="#"><%--<i class="fa fa-cog"></i>--%><%--Change Password</a></li>--%>
+                                            <li role="separator" class="divider"></li>
+                                            <li><a href="#" data-logout="true"><i class="fa fa-power-off"></i>Logout</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+
+                </div>
+                <div class="isc-app-top-menu-nav-s1">
+                    <ul class="isc-app-nav-menu-s1" id="menu-List">
+                        <li data-menu="10014" child-menu="17" class="active"><a href="Bill_UserHome.aspx" id="Sub-Menue" style="display: none"><i class="fa fa-home"></i>Home </a>
+                            <ul class="isc-app-sub-nav-s1">
+
+                                <%--<li data-menu="1011" child-menu="14"><a href="Bill_UserHome.aspx" style="display: none" id="sub-user-Home">User Home </a>
+                                </li>
+                                <li data-menu="1012" child-menu="15"><a href="Bill_ApproverHome.aspx" style="display: none" id="sub-approver-Home">Approver Home </a>
+                                </li>--%>
+                                <%-- <li><a href="PaymentMethodList.aspx">Payment Method </a>
+                                </li>--%>
+
+                                <%--<li data-menu="1013" child-menu="16"><a href="Bill_FinancerHome.aspx" style="display: none" id="sub-financeManager-Home">Financier Home</a>
+                                </li>--%>
+                                <%--    <li><a></a>
+                                </li>--%>
+                            </ul>
+                        </li>
+                        <%--<li data-menu="1001" child-menu="1" class="active"><a href="Bill_UserHome.aspx" style="display: none" id="user-Home"><i class="fa fa-home"></i>Home</a>
+                            <%--<li data-menu="1002" child-menu="2" class="active"><a href="Bill_ApproverHome.aspx" style="display: none" id="approver-Home"><i class="fa fa-home"></i>Home</a>--%>
+                            <%--    <li data-menu="1003" child-menu="3" class="active"><a href="Bill_FinancerHome.aspx" style="display: none" id="financeManager-Home"><i class="fa fa-home"></i>Home</a>--%>
+
+                                    <%--<ul class="isc-app-sub-nav-s1" style="display: none;">
+                                        <%--<li  child-menu="1"><a href="UserHome.aspx" style="display:none" id="">User Home </a>
+                                </li>--%>
+                                        <%--   <li  child-menu="2"><a    >Approver Home</a>--%>
+                             <%--   </li>--%>
+                                <%-- <li  child-menu="3"><a   style="display:none">Finance Manager</a>--%>
+                           <%-- </li>--%>
+                    <%-- </ul>
+                    </li>--%>
+                     <li data-menu="1002" child-menu="2" class=""><a ><i class=" fa fa-file-text" style="font-weight: bolder;"></i> Configuration <i class="fa fa-angle-down" style="float:right;"></i></a>
+                          <ul class="isc-app-sub-nav-s1">
+                                      <li class="position-relative"  id="PortofLoading" ><a href="PortofLoadingList.aspx" title="Port of Discharge">Port of Loading</a> </li>
+                                      <li class="position-relative" id="PortofDischarge"><a href="PortofDischargeList.aspx" title="Port of Discharge">Port of Discharge</a> </li>
+                                      <li class="position-relative" id="Product"><a href="Product.aspx" title="Product">Product</a> </li>
+                                      <li class="position-relative" id="PaymentTerms"><a href="PaymentTerms.aspx" title="Payment Terms">Payment Terms</a> </li>    
+                                      <li class="position-relative" id="DeliveryConditions"><a href="DeliveryConditions.aspx" title="Delivery Conditions">Delivery Conditions</a> </li>
+                          </ul>
+                      </li>
+                     <li  data-menu="1003" child-menu="4" class=""><a ><i class="icon-handbag" style="font-weight: bolder;"></i> Confirmation <i class="fa fa-angle-down" style="float:right;"></i></a>
+                          <ul class="isc-app-sub-nav-s1">
+                                <%-- <li class="position-relative"  id="customerlist"><a href="InvoiceCustomer360.aspx">Customer List</a> </li>--%>
+                              
+                                 <li class="position-relative" id="Employeelist"><a href="Employee.aspx">Employee List</a> </li>
+                                <li class="position-relative" id="Buyerlist"><a href="InvoiceBuyer360.aspx">Buyer List</a> </li>
+                                <li class="position-relative" id="Shipperlist"><a href="InvoiceShipper360.aspx">Shipper List</a> </li>
+                          </ul>
+                      </li>
+                      <li data-menu="1004" child-menu="5" class=""><a ><i class="fa-solid fa-sailboat" style="font-weight: bolder;"></i> Invoice List <i class="fa fa-angle-down" style="float:right;"></i></a>
+                          <ul class="isc-app-sub-nav-s1">
+                                <%-- <li class="position-relative"  id="customerlist"><a href="InvoiceCustomer360.aspx">Customer List</a> </li>--%>
+                                 <li class="position-relative" id="approver-Menu"><a href="InvoiceListVietnam.aspx">Invoice Vietnam</a> </li>
+                                
+                          </ul>
+                      </li>
+                      <li data-menu="1005" child-menu="6" class=""><a ><i class=" fa fa-file-text" style="font-weight: bolder;"></i> Packing <i class="fa fa-angle-down" style="float:right;"></i></a>
+                        <%--  <ul class="isc-app-sub-nav-s1">
+                        <li class="position-relative" ><a style="display: none" href="PaymentStatusReport.aspx" id="Paymentreport" title="Bill Payment Report">Bill Payment Report</a> </li>
+                                      <li class="position-relative" ><a style="display: none" href="BillDueBasedReport.aspx" id="BillDueBasedReport" title="Unpaid Bills Report">Unpaid Bills Report</a> </li>
+                                      <li class="position-relative" ><a style="display: none" href="VendorBalanceReport.aspx" id="VendorbalanceReport" title="Vendor Balance Report">Vendor Balance Report</a> </li>
+                                      <li class="position-relative" ><a style="display: none" href="APAgingSummaryReport.aspx" id="APAgingSummaryReport" title="AP Aging Summary Report">AP Aging Summary Report</a> </li>
+                                      <li class="position-relative" ><a style="display: none" href="APAgingDetailReport.aspx" id="APAgingDetailedReport" title="AP Aging Detailed Report">AP Aging Detailed Report</a> </li>
+                                                      
+                          </ul>--%>
+                      </li>
+                    <li data-menu="1006" child-menu="7" class=""><a ><i class=" fa fa-file-text" style="font-weight: bolder;"></i> Delivery <i class="fa fa-angle-down" style="float:right;"></i></a>
+                         <%-- <ul class="isc-app-sub-nav-s1">
+                        <li class="position-relative" ><a style="display: none" href="PaymentStatusReport.aspx" id="Paymentreport" title="Bill Payment Report">Bill Payment Report</a> </li>
+                                      <li class="position-relative" ><a style="display: none" href="BillDueBasedReport.aspx" id="BillDueBasedReport" title="Unpaid Bills Report">Unpaid Bills Report</a> </li>
+                                      <li class="position-relative" ><a style="display: none" href="VendorBalanceReport.aspx" id="VendorbalanceReport" title="Vendor Balance Report">Vendor Balance Report</a> </li>
+                                      <li class="position-relative" ><a style="display: none" href="APAgingSummaryReport.aspx" id="APAgingSummaryReport" title="AP Aging Summary Report">AP Aging Summary Report</a> </li>
+                                      <li class="position-relative" ><a style="display: none" href="APAgingDetailReport.aspx" id="APAgingDetailedReport" title="AP Aging Detailed Report">AP Aging Detailed Report</a> </li>
+                                                      
+                          </ul>--%>
+                      </li>
+                     <%--   <li data-menu="1002" class="" child-menu="4" style="display: none" id="bills-Invoice-Menu"><a href="Bills.aspx"><i class="fa fa-file"></i>Bills</a>--%>
+                            <%--<ul class="isc-app-sub-nav-s1">--%>
+                            <%-- <li><a href="uploadbills.aspx">upload bills / invoice </a>
+                                </li>--%>
+                            <%--  <li><a href="billsorinvoicelist.aspx">bills / invoice list</a>
+                                </li>--%>
+                            <%-- <li><a href="createnewbill.aspx">create new bill</a>
+                                </li>--%>
+
+                            <%-- </ul>--%>
+                      <%--  </li>--%>
+                  <%--  <li data-menu="1003" class="" child-menu="5" style="display: none" id="approver-Menu"><a href="ApprovalList.aspx"><i class="fa fa-check"></i>Approvals</a>--%>
+                        <%-- <ul class="isc-app-sub-nav-s1">
+                            
+                                <li><a href="ApporvalSummaryList.aspx">Approval Summary</a>
+                                </li>
+                                
+
+                            </ul>--%>
+                        <%--
+                        
+                            </li>
+                       --%>
+                        <%--                    
+                            <li child-menu="6" id="PaymentsULMenu" style="display: none"><a href="Bill_PaymentSummary.aspx"><i class="fa fa-money"></i>Payments <i class="fa fa-angle-down" style="float:right;"></i></a>
+                        <ul class="isc-app-sub-nav-s1">
+
+                            <li data-menu="1004" child-menu="6" class="" style="display: none" id="payment-Menu"><a href="Bill_PaymentSummary.aspx">Payment Summary</a>
+                            </li>
+                            <li data-menu="1008" child-menu="6" class="" style="display: none" id="export-Menu"><a href="Export.aspx">Export</a>
+                            </li>
+                        </ul>
+                    </li>--%>
+                    <%--<li data-menu="1008" child-menu="11" class="" style="display:none" id="export-Menu"><a href="Export.aspx" >Export</a></li>--%>
+                    <%--<li data-menu="1009" child-menu="12" class="" style="display:none" id="GL-ImportMenu"><a href="GLImport.aspx" >GL Import</a></li>--%>
+                    <%--<li data-menu="1010" child-menu="13" class="" style="display:none" id="PaymentSetupMenu"><a href="PaymentSetup.aspx" >Payment Setup</a></li>--%>
+                    <%--<ul class="isc-app-sub-nav-s1">
+                            
+                               <%-- <li child-menu="7" ><a href="AccountsPayable.aspx">Accounts Payable</a>
+                                </li>
+                                 <li child-menu="7"><a href="PaymentSummary.aspx">Payment Summary</a>
+                                </li>--%>
+                    <%--  <li><a href="PaymentsOut.aspx">Payments Out</a>
+                                </li>--%>
+
+
+                    <%--</ul>--%>
+                            </li>
+                     <%--   <li data-menu="1005" class=""><a href="#" >Vendors</a>
+                             <ul class="isc-app-sub-nav-s1">
+                            
+                                <li><a href="VendorList.aspx">Vendors</a>
+                                </li>--%>
+                    <%-- <li><a href="VendorBillList.aspx">Vendors List</a>
+                                </li>
+                                  <li><a href="VendorDetail.aspx">Vendors Details</a>
+                                </li>--%>
+                    <%--<li><a href="VendorCredits.aspx">Vendors Credits</a>
+                                </li>
+                            </ul>
+                            </li>--%>
+                        
+                          </li>
+                      <li id="Settingtb" data-menu="1005" child-menu="8" class="isc-rgt-ico"><a style="display: none" id="settings-Menu"><i class="fa fa-cog"></i> </a>
+                          <ul class="isc-app-sub-nav-s1">
+
+                              <li class="position-relative"><a href="User.aspx" id="roles-Menue" style="display: none">Users Permission </a>
+                                  <ul class="isc-app-sub-nav-child isc-wid-179">
+                                      <li><a href="User.aspx" id="user-Menu" style="display: none">Users </a></li>
+                                      <li><a href="Roles.aspx" id="role-Menu" style="display: none">Roles </a>
+                                      </li>
+                                  </ul>
+
+                              </li>
+                              <li class="position-relative"><a style="display: none" id="masterSetUp">Master Setup </a>
+                                  <ul class="isc-app-sub-nav-child isc-wid-179">
+                                      <li><a id="bill-Category-Menu" style="display: none" href="Bill_Category.aspx">Category</a></li>
+                                          <li><a href="GLImport.aspx" id="gl-Import-Menu" style="display: none">GL Import</a>
+                                              <%--<li data-menu="1006" child-menu="9" id="vendorMenu" style="display: none;"><a href="VendorList.aspx">Vendor </a></li>--%>
+                                                  <li data-menu="1006" child-menu="9" id="CustomerMenu" style="display: none;"><a href="CustomersList.aspx">Customer </a></li>
+                                                      <li data-menu="1006" child-menu="9" id="ProjectMenu" style="display: none;"><a href="ProjectList.aspx">Project </a>
+                                                          <%--    <li  data-menu="1006" child-menu="9" id="dCustomerMenu"  ><a href="DwollaCustomersList.aspx">Payment Configuration </a>--%>
+                                                      </li>
+                                                  
+                                  </ul>
+                              </li>
+                              <li class="position-relative">
+                                  <a style="" id="companySetup">Company Setup </a>
+                                  <ul class="isc-app-sub-nav-child isc-wid-179">
+                                      <li><a href="Organization.aspx" id="Organization">Organization</a></li>
+                                      <%--<li><a href="AccountsPayablePreferences.aspx" title="Preferences" style="display:none;" id="payablepreferences-Setup-Menu">Preferences</a>--%>
+                                      </li>
+
+                                  </ul>
+                              </li>
+                             <%-- <li class="position-relative"><a href="InvoiceCustomer360.aspx" id="customerlist">Customer List</a> </li>--%>
+                            <li class="position-relative"><a href="AuditLog.aspx" id="auditLog">Audit Log</a> </li>
+                              <li class="position-relative" style="display: none"><a href="SyncHistory.aspx" id="syncHistory">Sync History</a> </li>
+                            <%--  <li class="position-relative" ><a id="Report">Report</a>
+                                  <ul class="isc-app-sub-nav-child isc-wid-179">
+                                      <li class="position-relative" ><a style="display: none" href="PaymentStatusReport.aspx" id="Paymentreport" title="Bill Payment Report">Bill Payment Report</a> </li>
+                                      <li class="position-relative" ><a style="display: none" href="BillDueBasedReport.aspx" id="BillDueBasedReport" title="Unpaid Bills Report">Unpaid Bills Report</a> </li>
+                                      <li class="position-relative" ><a style="display: none" href="VendorBalanceReport.aspx" id="VendorbalanceReport" title="Vendor Balance Report">Vendor Balance Report</a> </li>
+                                      <li class="position-relative" ><a style="display: none" href="APAgingSummaryReport.aspx" id="APAgingSummaryReport" title="AP Aging Summary Report">AP Aging Summary Report</a> </li>
+                                      <li class="position-relative" ><a style="display: none" href="APAgingDetailReport.aspx" id="APAgingDetailedReport" title="AP Aging Detailed Report">AP Aging Detailed Report</a> </li>
+                                  </ul>
+                              </li>--%>
+                          </ul>
+                      </li>
+
+
+<%--                    <li data-menu="1007" child-menu="10" class="active" id="cAdmin-Menue" style="display: none"><a href="ClientAdmin.aspx">Client Admin</a></li>--%>
+                    <%--<li data-menu="1006" child-menu="9" class=""><a href="VendorList.aspx"   style="display:none"  id="vendor-Menue">Vendor</a></li>--%>
+<%--              <li data-menu="1008" id="ar-invoice" style="display:none" class="" child-menu="11" id="invoice"><a href="invoiceList.aspx"><i class="fa fa-check"></i>Invoice List</a>--%>
+                    </div>
+            </div>
+            <div class="visible-xs visible-sm">
+                <div class="mobile-logo">
+                     <ul class="isc-cp-hdr-icon">
+                         <li>
+                        <div class="sidebar-toggler hidden-phone">
+                          <%--<i class="fa fa-ellipsis-v" aria-hidden="true"></i>--%>
+                          <%-- <i class="fa fa-ellipsis-v" aria-hidden="true"></i>--%>
+                           <%-- <i class="fa fa-ellipsis-v" aria-hidden="true"></i>--%>
+                            <img src="images/threedots.png" class="isc-mb-dots" />
+                        </div>
+                    </li>
+                           </ul>
+                    <a href="#">
+                        <h3 class="header-logo-mobile">RJS SeaFood</h3>
+                    </a>
+                </div>
+                <div class="isc-app-login-cell-s1">
+                    
+                    <div class="cell-left pad-rgt-15 isc-header-border-lft-drop">
+                        
+                    </div>
+
+                    <div class="cell-left ">
+                        
+                        
+                    </div>
+                    <div class="cell-right">
+                        
+                        <a href="#" class="isc-profile-icon-letter LoggedinUserShortName" id="logined-User" data-toggle="dropdown" style="background-color: #1589ee !important;">SM</a>
+                        <div class="dropdown-menu-s3 " role="menu">
+                            <div class="dropdown-menu-inner-con-s3">
+                                <div class="screen-row">
+                                    <div class="text-center">
+                                        <div class="screen-row" style="margin-bottom: 10px;border-bottom:1px solid #eee;">
+                                            <div class="div-col-20per isc-mb-wdt-20">
+                                                <h3 class="isc-act-read-list-cell-cir-log-s2 isc-act-read-list-bg-s4 LoggedinUserShortName" id="ShortName">SM</h3>
+                                            </div>
+                                            <div class="div-col-80per isc-mb-wdt-80">
+                                                <h4 id="Logger" class="isc-logger-name">Salomi M</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="screen-row">
+
+                                        <ul class="dropdown-user">
+
+
+                                            <li role="separator" class="divider"></li>
+                                            <li><a data-changepasscode="true"><i class="fa fa-pencil"></i>Change Password</a></li>
+                                            
+                                            <li role="separator" class="divider"></li>
+                                            <li><a href="#" data-logout="true"><i class="fa fa-power-off"></i>Logout</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <%--<div class="cell-right">
+                        
+                        <a href="#" class="isc-profile-icon-letter LoggedinUserShortName" id="logined-User" data-toggle="dropdown" style="background-color: #1589ee !important;">SM</a>
+                        <div class="dropdown-menu-s3 " role="menu">
+                            <div class="dropdown-menu-inner-con-s3">
+                                <div class="screen-row">
+                                    <div class="text-center">
+                                        <div class="screen-row" style="margin-bottom: 10px;">
+                                            <div class="div-col-41per">
+                                                <h3 class="isc-act-read-list-cell-cir-log-s2 isc-act-read-list-bg-s4 LoggedinUserShortName" id="ShortName">SM</h3>
+                                            </div>
+                                            <div class="div-col-59per">
+                                                <h4 id="Logger" class="isc-logger-name">Salomi M</h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="screen-row">
+
+                                        <ul class="dropdown-user">
+
+
+                                            <li role="separator" class="divider"></li>
+                                            <li><a data-changepasscode="true"><i class="fa fa-cog"></i>Change Password</a></li>
+                                            
+                                            <li role="separator" class="divider"></li>
+                                            <li><a href="RJSLogin.aspx"><i class="fa fa-power-off"></i>Logout</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>--%>
+
+
+                </div>
+                <nav class="navbar-default">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle home-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                    <div class="collapse navbar-collapse mobi-nav" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav navbar-right mobile-submenu">
+                            <li menu-parent="100"><a href="#">Home</a>
+                                <ul menu-child="100" class="isc-app-sub-nav-mobi ">
+                                    <li><a href="Bill_UserHome.aspx"><i class=" icon-briefcase"></i>User Home</a></li>
+                                    <li><a href="Bill_ApproverHome.aspx"><i class=" icon-briefcase"></i>Approver Home</a></li>
+                                    <li><a href="Bill_FinancerHome.aspx"><i class=" icon-briefcase"></i>Financier Home</a></li>
+                                </ul>
+                            </li>
+                            <li menu-parent="101"><a href="Bills.aspx" class="icon-rmv">Bills</a>
+
+                            </li>
+                            <li menu-parent="102"><a href="ApprovalList.aspx" class="icon-rmv">Approvals</a>
+
+                            </li>
+                            <li menu-parent="103"><a href="#">Payments</a>
+                                <ul menu-child="103" class="isc-app-sub-nav-mobi ">
+                                   
+                                    <li><a href="Bill_PaymentSummary.aspx"><i class=" icon-briefcase"></i>Payment Summary</a></li>
+                                     <li><a href="Export.aspx"><i class=" icon-briefcase"></i>Export</a></li>
+
+                                </ul>
+                            </li>
+                             <li menu-parent="104"><a href="#">Settings</a>
+                                <ul menu-child="104" class="isc-app-sub-nav-mobi ">
+                                   
+                                    <li><a href="User.aspx"><i class=" icon-briefcase"></i>Users</a></li>
+                                     <li><a href="Roles.aspx"><i class=" icon-briefcase"></i>Roles</a></li>
+                                     <%--<li><a href="Bill_Category.aspx"><i class=" icon-briefcase"></i>Category</a></li>--%>
+                                     <li><a href="VendorList.aspx"><i class=" icon-briefcase"></i>Vendor </a></li>
+                                     <li><a href="CustomersList.aspx"><i class=" icon-briefcase"></i>Customer </a></li>
+                                     <li><a href="ProjectList.aspx"><i class=" icon-briefcase"></i>Project </a></li>
+                                     <li><a href="PaymentSetup.aspx"><i class=" icon-briefcase"></i>Payment Setup</a></li>
+                                     <li><a href="AccountsPayablePreferences.aspx"><i class=" icon-briefcase"></i>Preferences</a></li>
+                                     <li style="display:none"><a href="AuditLog.aspx"><i class=" icon-briefcase"></i>Audit Log</a></li>
+                                     <li><a href="PaymentStatusReport.aspx"><i class=" icon-briefcase"></i>Bill Payment Report</a></li>
+                                      <li><a href="BillDueBasedReport.aspx"><i class=" icon-briefcase"></i>Unpaid Bills Report</a></li>
+                                      <li><a href="VendorBalanceReport.aspx"><i class=" icon-briefcase"></i>Vendor Balance Report</a></li>
+                                      <li><a href="APAgingSummaryReport.aspx"><i class=" icon-briefcase"></i>AP Aging Summary Report</a></li>
+                                      <li><a href="APAgingDetailReport.aspx"><i class=" icon-briefcase"></i>AP Aging Detailed Report</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div class="page-block" id="pageLoader" style="margin-left: 0px; display: none;">
+                <div class="preloader-1">
+                    <div>
+                        Loading
+                    </div>
+                    <span class="line line-1"></span><span class="line line-2"></span><span class="line line-3"></span><span class="line line-4"></span><span class="line line-5"></span><span class="line line-6"></span><span class="line line-7"></span><span class="line line-8"></span><span class="line line-9"></span>
+                </div>
+                <script type="text/javascript">
+                    //var $loading = $('#pageLoader');
+                    //$loading.hide();
+                    //$(document).ajaxSend(function () { $loading.show(); }).ajaxComplete(function () { $loading.hide(); });
+                </script>
+            </div>
+            <div class="isc-app-main-body-layout-container">
+                <div class="isc-app-screen-content-s1">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+
+            </div>
+            <div class="slds-context-footer-bar">
+                <div class="content-foot" title=" Copyright © 2022 RJS SeaFood  | Archarina Theme. All Rights Reserved.">
+                    Copyright © 2022 RJS SeaFoods  | Hark Technologies. All Rights Reserved.
+                </div>
+            </div>
+        </div>
+        <%--<div class="page-block" id="pageLoader-Bill" style="background-color: rgb(255,255,255); margin-left: 0px; display: block;">
+<div class="loader-area">
+<div class="loading">
+<h2 class="isc-loader-heading">Processing...</h2>
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</div>
+
+<br>
+<span class="text" style="font-size: 22px;">Bill Management</span>
+<span class="text" style=" font-size: 12px;">Powered by Innospire</span>
+</div>
+    <script type="text/javascript">
+        var $loading = $('#pageLoader-Bill').hide();
+    //    var $billManagmentloading = $('#pageLoader-Bill');
+                    //$loading.hide();
+                    //$(document).ajaxSend(function () { $loading.show(); }).ajaxComplete(function () { $loading.hide(); });
+                </script>
+</div>--%>
+        <div class="page-block" id="pageLoader-bill" style="background-color: rgb(255,255,255); margin-left: 0px; display: block;">
+            <div class="loader-area">
+                <div class="loading">
+                    <h2 class="isc-loader-heading">Processing...</h2>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+
+                <br>
+                <span class="text" style="font-size: 22px;">RJS Sea Foods</span>
+                <span class="text" style="font-size: 12px;">Powered by Hark Technologies</span>
+            </div>
+            <script type="text/javascript">
+                var $loading = $('#pageLoader-bill').hide();
+            </script>
+        </div>
+
+        <div class="modal fade isc-popup-detail-form-s1 in" id="mp_add-website5" data-backdrop="static" data-keyboard="false" tabindex="-1" role="basic" aria-hidden="false">
+            <div class="modal-dialog" style="width: 650px;">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <div class="screen-row">
+                            <div class="cell-left">
+                                <h4 class="modal-title">Change Password</h4>
+                            </div>
+                            <div class="cell-right">
+                                <a><i class="fa fa-times" data-dismiss="modal" title="Close" style="cursor: pointer"></i></a>
+                                <%-- <button type="button" class="close img-typ-sq" aria-hidden="true">
+                            </button>--%>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="screen-row">
+
+                        <div class="modal-body">
+                            <div class="screen-row">
+                                <div class="form-body">
+
+
+
+
+                                    <div class="form-group">
+                                        <div class="screen-row">
+                                            <div class="div-col-30per">
+                                                <label>Enter Old Password <span class="lbl-mandatory-s2">*</span></label>
+                                            </div>
+                                            <div class="div-col-40per">
+                                                <input type="password" placeholder="Enter Old Password" id="txt_oldPasscode" class="form-control">
+                                                <div class="clearfix"></div>
+                                                <span style="color: red; font-size: 12px; display: none;" id="err-oldpasscode">Old Password should not be empty</span>
+                                                <span style="color: red; font-size: 12px; display: none;" id="err-oldpasscodmatch">Old Password doesn't match</span>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="screen-row">
+                                            <div class="div-col-30per">
+                                                <label>Enter New Password <span class="lbl-mandatory-s2">*</span></label>
+                                            </div>
+                                            <div class="div-col-40per">
+                                                <input type="password" class="form-control" placeholder="Enter New Password" id="txt_Passcode">
+                                                <div class="clearfix"></div>
+                                                <span style="color: red; font-size: 12px; display: none;" id="err-passcode">New Password should not be empty</span>
+                                                <span style="color: red; font-size: 12px; display: none;" id="err-passcodrequire">New Password doesn't meet the requirement</span>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="screen-row">
+                                            <div class="div-col-30per">
+                                                <label>Enter Confirm Password <span class="lbl-mandatory-s2">*</span></label>
+                                            </div>
+                                            <div class="div-col-40per">
+                                                <input type="password" class="form-control" placeholder="Enter Confirm Password" id="txt_ConfirmPasscode">
+                                                <div class="clearfix"></div>
+                                                <span style="color: red; font-size: 12px; display: none;" id="err-cpasscod">Confirm Password should not be empty</span>
+                                                <span style="color: red; font-size: 12px; display: none;" id="err-cpasscodmatch">New Password and Confirm Password does not match</span>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                    <div class="form-group">
+                                        <h4>Password must meet the following requirements:</h4>
+                                        <ul>
+                                            <li id="masterlength" class="invalid">At least <strong>8 characters</strong>—the more characters, the better.</li>
+                                            <li id="mastercapital" class="invalid">A mixture of both <strong>uppercase and lowercase letters.</strong></li>
+                                            <li id="masternumber" class="invalid">A mixture of <strong>letters and numbers.</strong></li>
+                                            <li id="mastercharacters" class="invalid">Inclusion of at least <strong>one special character</strong>, e.g., ! @ # ? ] Note: do not use &lt; or &gt; in your password, as both can cause problems in Web browsers.</li>
+
+                                        </ul>
+
+                                    </div>
+                                    <%--<div class="form-group">
+
+                                    <div class="">
+                                        <div class="checkbox-list TS-pop-noti">
+
+                                            <p>
+                                                Notes :
+                                                <br />
+                                                1. You Can't complete the setup without completing all the above mandatory fields * At least 8 characters—the more characters, the better.<br />
+                                                * A mixture of both uppercase and lowercase letters. * A mixture of letters and numbers.<br />
+                                                * Inclusion of at least one special character, e.g., ! @ # ? ] Note: do not use < or > in your password, as both can cause problems in Web browsers.
+                                            </p>
+
+                                        </div>
+                                    </div>
+                                </div>--%>
+                                </div>
+
+                            </div>
+
+
+                        </div>
+
+                    </div>
+                    <div class="modal-footer">
+                        <div class="isc-pop-btn-cen-cell-s1">
+                            <button type="button" class="btn blue isc-btn-pop-action-s1" id="mp-resetpassword-submit">
+                                Submit</button>
+                            <button type="button" class="btn default isc-btn-pop-action-s2" data-dismiss="modal">
+                                Cancel</button>
+                        </div>
+                    </div>
+                    <!-- /.modal-content -->
+                </div>
+                <!-- /.mokdmadal-dialog -->
+            </div>
+        </div>
+
+    </form>
+    <!-- BEGIN CORE PLUGINS -->
+    <!--[if lt IE 9]>
+   <script src="iscjsengine/common/respond.min.js" type="text/javascript"></script>
+   <script src="iscjsengine/common/excanvas.min.js" type="text/javascript"></script>
+   <![endif]-->
+
+
+
+    <!-- END CORE PLUGINS -->
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+            //Metronic.init();
+            //Layout.init();
+            //ISCUtility.MenuState();
+            //            ComponentsDropdowns.init();
+        });
+        var AdjustScreenBodyHeight = function () {
+            var $windowHeight = $(window).innerHeight();
+            var $menuHeight = $('.isc-app-main-top-layout-container').innerHeight();
+            var $screenHeaderHeight = $('.isc-app-screen-header-container').innerHeight();
+            var $screenFooterHeight = $('.slds-context-footer-bar').innerHeight();
+            var screenBodyPadding = 0; // Screen Body Padding
+            var $screenBody = $('.isc-app-screen-body-container');
+            $screenBody.css('height', (parseInt($windowHeight) - (parseInt($menuHeight) + parseInt($screenHeaderHeight) + parseInt(screenBodyPadding) + parseInt($screenFooterHeight))) + 'px');
+        }
+    </script>
+    <script type="text/javascript">
+        // Control Screen Scroll
+        $(document).ready(function () {
+
+            AdjustScreenBodyHeight();
+            $('.nav-tabs').scrollingTabs();
+        });
+        $(window).resize(function () {
+            AdjustScreenBodyHeight();
+        });
+
+        $(document).on('click', '[menu-parent]', function (e) {
+            //e.preventDefault();
+            e.stopPropagation();
+            var MenuID = parseInt($(this).attr('menu-parent'));
+            $('[menu-child]').not('[menu-child="' + MenuID + '"]').hide();
+            $('[menu-child="' + MenuID + '"]').toggle();
+        });
+        $(document).on('click', '#Toggle_Switch', function (e) {
+            e.preventDefault();
+            var SwitchType = $(this).attr('data-switch');
+            if (SwitchType == 'false') {
+                $(this).attr('data-switch', true);
+                $(this).html('<img src="images/VTS_Logo.png" title="Vendor Team Service" />');
+                $(this).removeClass('isc-toggle-button-clr-s2').addClass('isc-toggle-button-clr-s1');
+            }
+            else {
+                $(this).attr('data-switch', false);
+                $(this).html('<img src="images/INNOSPIR_Logo.png" title="INNOSPIRE" />');
+
+                $(this).removeClass('isc-toggle-button-clr-s1').addClass('isc-toggle-button-clr-s2');
+            }
+        });
+
+    </script>
+
+
+    <%--Loader--%>
+
+    <script>
+
+        $(window).on('load', function () {
+            setTimeout(removeLoader, 0); //wait for page load PLUS two seconds.
+        });
+        function removeLoader() {
+            $("#pageLoader-Bill").fadeOut(400, function () {
+                // fadeOut complete. Remove the loading div
+                $("#pageLoader-Bill").remove(); //makes page more lightweight 
+            });
+        }
+    </script>
+    <!-- END JAVASCRIPTS -->
+</body>
+
+</html>

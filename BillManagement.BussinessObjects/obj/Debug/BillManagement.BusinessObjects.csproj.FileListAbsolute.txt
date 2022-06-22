@@ -1,0 +1,104 @@
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.pdb
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.dll
+D:\Data\Project\ISC\Projects\BillManagementSVN\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BussinessObjects\bin\Debug\Newtonsoft.Json.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement.BussinessObjects\bin\Debug\Newtonsoft.Json.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.dll
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.pdb
+D:\Data\Project\ISC\Projects\ArcBill_V2\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\new\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.dll
+D:\new\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.pdb
+D:\new\BillManagement.BussinessObjects\bin\Debug\Newtonsoft.Json.dll
+D:\new\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\new\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CopyComplete
+D:\new\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.dll
+D:\new\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.pdb
+D:\new\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csprojAssemblyReference.cache
+D:\ArcBillWEB_SVN\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.dll
+D:\ArcBillWEB_SVN\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.pdb
+D:\ArcBillWEB_SVN\BillManagement.BussinessObjects\bin\Debug\Newtonsoft.Json.dll
+D:\ArcBillWEB_SVN\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csprojAssemblyReference.cache
+D:\ArcBillWEB_SVN\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\ArcBillWEB_SVN\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CopyComplete
+D:\ArcBillWEB_SVN\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.dll
+D:\ArcBillWEB_SVN\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.pdb
+D:\ArcBillWeb15-0921UiUodate\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.pdb
+D:\ArcBillWeb15-0921UiUodate\BillManagement.BussinessObjects\bin\Debug\Newtonsoft.Json.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csprojAssemblyReference.cache
+D:\ArcBillWeb15-0921UiUodate\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\ArcBillWeb15-0921UiUodate\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CopyComplete
+D:\ArcBillWeb15-0921UiUodate\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.dll
+D:\ArcBillWeb15-0921UiUodate\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.pdb
+D:\ArcBillWebLatest\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.dll
+D:\ArcBillWebLatest\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.pdb
+D:\ArcBillWebLatest\BillManagement.BussinessObjects\bin\Debug\Newtonsoft.Json.dll
+D:\ArcBillWebLatest\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csprojAssemblyReference.cache
+D:\ArcBillWebLatest\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\ArcBillWebLatest\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CopyComplete
+D:\ArcBillWebLatest\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.dll
+D:\ArcBillWebLatest\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.pdb
+D:\ARCBILL\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.dll
+D:\ARCBILL\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.pdb
+D:\ARCBILL\BillManagement.BussinessObjects\bin\Debug\Newtonsoft.Json.dll
+D:\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.AssemblyReference.cache
+D:\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CopyComplete
+D:\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.dll
+D:\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.pdb
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\Newtonsoft.Json.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.AssemblyReference.cache
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CopyComplete
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.dll
+D:\rjs project-backUp\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\Newtonsoft.Json.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.AssemblyReference.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CopyComplete
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.pdb
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\Newtonsoft.Json.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csprojAssemblyReference.cache
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CoreCompileInputs.cache
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CopyComplete
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.dll
+E:\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.pdb
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CopyComplete
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.dll
+C:\Users\SYS\Desktop\RJS-14-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.pdb
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.dll
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.pdb
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\Newtonsoft.Json.dll
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.AssemblyReference.cache
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CopyComplete
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.dll
+D:\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\BillManagement.BussinessObjects.pdb
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\bin\Debug\Newtonsoft.Json.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csprojAssemblyReference.cache
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CoreCompileInputs.cache
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BusinessObjects.csproj.CopyComplete
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.dll
+E:\RJS-15-06-2022\ARCBILL\ARCBILL\BillManagement.BussinessObjects\obj\Debug\BillManagement.BussinessObjects.pdb

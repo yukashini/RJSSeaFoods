@@ -1,0 +1,17 @@
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.Utilities\bin\Release\ISCLibrary.Utilities.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.Utilities\bin\Release\ISCLibrary.Utilities.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.Utilities\bin\Release\EPPlus.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.Utilities\bin\Release\Newtonsoft.Json.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.Utilities\bin\Release\EPPlus.xml
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.Utilities\obj\Release\ISCLibrary.Utilities.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.Utilities\obj\Release\ISCLibrary.Utilities.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Release\ISCLibrary.Utilities.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Release\ISCLibrary.Utilities.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Release\EPPlus.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Release\Newtonsoft.Json.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\bin\Release\EPPlus.xml
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Release\ISCLibrary.Utilities.csproj.AssemblyReference.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Release\ISCLibrary.Utilities.csproj.CoreCompileInputs.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Release\ISCLibrary.Utilities.csproj.CopyComplete
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Release\ISCLibrary.Utilities.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.Utilities\obj\Release\ISCLibrary.Utilities.pdb

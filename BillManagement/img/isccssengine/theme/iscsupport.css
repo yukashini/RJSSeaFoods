@@ -1,0 +1,428 @@
+﻿.screen-row:before
+
+{
+    content: '';
+    display: table;
+}
+
+.screen-row:after
+{
+    content: '';
+    display: table;
+    clear: both;
+}
+.isc-app-main-layout-container:before, .isc-app-main-top-layout-container:before, .isc-app-main-body-layout-container:before, .isc-app-top-tog-btn-s1:before, .isc-app-top-brand-title-s1:before, .isc-app-top-menu-nav-s1:before, .isc-app-login-cell-s1:before, .isc-app-screen-content-s1:before, .isc-app-screen-header-container:before, .isc-app-screen-body-container:before, .isc-app-screen-body-inner-container:before, .isc-bud-cell-s1:before, .isc-app-screen-sec-container-s1:before, .isc-screen-nav-container-s1:before, .isc-screen-sub-bdy-inner-container-s1:before, .isc-bud-cell-s2:before, .isc-form-content-container-s1:before, .form-group:before, .isc-screen-sec-hdr-container-s1:before, .isc-detail-bg-s1:before, .isc-input-tag-cell-s1:before, .isc-screen-entity-list-s1:before, .isc-td-inline-status-ch-s1:before, .isc-panels-grp-container-s1:before, .isc-panels-grp-hdr-container-s1:before, .isc-panels-grp-bdy-container-s1:before, .isc-tile-read-container-s1:before, .isc-tile-row-s1:before, .isc-tile-row-s2:before, .isc-tile-hdr-row-s1:before, .isc-tile-hdr-row-s2:before, .isc-panel-tile-read-container-s1:before, .isc-panel-tile-read-container-s2:before, .isc-pan-progress-bar-s1:before, .isc-app-screen-sec-hdrs-container-s1:before, .isc-timeline-cell-s1:before, .isc-timeline-hdr-cell-s1:before, .isc-timeline-bdy-cell-s1:before, .isc-grp-cal-cell-s1:before, .isc-grp-cal-lft-cell-s1:before, .isc-grp-cal-cen-cell-s1:before, .isc-grp-cal-rig-cell-s1:before, .isc-cent-grp-div-container-s1:before, .isc-cent-grp-div-lft-container-s1:before, .isc-cent-grp-div-rig-container-s1:before, .isc-seccs-container-s1:before, .isc-docs-panel-cell-s1:before, .isc-arw-panel-grp-container-s1:before, .isc-arw-panel-grp-col-cell-s1:before, .isc-res-cells-s1:before, .isc-comment-box-s1:before, .isc-comment-box-cell-s1:before, .isc-bud-div-cell-s1:before, .isc-bud-div-cell-inner-s1:before, .isc-cir-bg-cell-pat-s1:before, .isc-div-progress-cell-parent-s1:before, .isc-cht-flow-cell-s1:before, .isc-res-cell-ht-s1:before, .isc-res-cell-ht-s2:before, .isc-res-cell-ht-s3:before, .isc-rept-cell-container-s1:before, .isc-sqr-bg-cell-pat-s2:before, .isc-pop-btn-cen-cell-s1:before, .isc-input-tag-cell-s1:before, .isc-filter-sec-kpi-s1:before, .isc-app-page-content-tab-container-s1:before, .isc-mini-progress-cell-s1:before
+{
+    content: '';
+    display: table;
+}
+
+.isc-app-main-layout-container:after, .isc-app-main-top-layout-container:after, .isc-app-main-body-layout-container:after, .isc-app-top-tog-btn-s1:after, .isc-app-top-brand-title-s1:after, .isc-app-top-menu-nav-s1:after, .isc-app-login-cell-s1:after, .isc-app-screen-content-s1:after, .isc-app-screen-header-container:after, .isc-app-screen-body-container:after, .isc-app-screen-body-inner-container:after, .isc-bud-cell-s1:after, .isc-app-screen-sec-container-s1:after, .isc-screen-nav-container-s1:after, .isc-screen-sub-bdy-inner-container-s1:after, .isc-bud-cell-s2:after, .isc-form-content-container-s1:after, .form-group:after, .isc-screen-sec-hdr-container-s1:after, .isc-detail-bg-s1:after, .isc-input-tag-cell-s1:after, .isc-screen-entity-list-s1:after, .isc-td-inline-status-ch-s1:after, .isc-panels-grp-container-s1:after, .isc-panels-grp-hdr-container-s1:after, .isc-panels-grp-bdy-container-s1:after, .isc-tile-read-container-s1:after, .isc-tile-row-s1:after, .isc-tile-row-s2:after, .isc-tile-hdr-row-s1:after, .isc-tile-hdr-row-s2:after, .isc-panel-tile-read-container-s1:after, .isc-panel-tile-read-container-s2:after, .isc-pan-progress-bar-s1:after, .isc-app-screen-sec-hdrs-container-s1:after, .isc-timeline-cell-s1:after, .isc-timeline-hdr-cell-s1:after, .isc-timeline-bdy-cell-s1:after, .isc-grp-cal-cell-s1:after, .isc-grp-cal-lft-cell-s1:after, .isc-grp-cal-cen-cell-s1:after, .isc-grp-cal-rig-cell-s1:after, .isc-cent-grp-div-container-s1:after, .isc-cent-grp-div-lft-container-s1:after, .isc-cent-grp-div-rig-container-s1:after, .isc-seccs-container-s1:after, .isc-docs-panel-cell-s1:after, .isc-arw-panel-grp-container-s1:after, .isc-arw-panel-grp-col-cell-s1:after, .isc-res-cells-s1:after, .isc-comment-box-s1:after, .isc-comment-box-cell-s1:after, .isc-bud-div-cell-s1:after, .isc-bud-div-cell-inner-s1:after, .isc-cir-bg-cell-pat-s1:after, .isc-div-progress-cell-parent-s1:after, .isc-cht-flow-cell-s1:after, .isc-res-cell-ht-s1:after, .isc-res-cell-ht-s2:after, .isc-res-cell-ht-s3:after, .isc-rept-cell-container-s1:after, .isc-imgn-cell-s1:after, .isc-inner-imgn-cell-s1:after, .isc-sqr-bg-cell-pat-s2:after, .isc-pop-btn-cen-cell-s1:after, .isc-input-tag-cell-s1:after, .isc-filter-sec-kpi-s1:after, .isc-app-page-content-tab-container-s1:after, .isc-ths-day-cell-s1:after, .isc-mini-progress-cell-s1:after
+{
+    content: '';
+    display: table;
+    clear: both;
+}
+.isc-app-main-layout-container:before, .isc-app-main-top-layout-container:before, .isc-app-main-body-layout-container:before, .isc-app-top-tog-btn-s1:before, .isc-app-top-brand-title-s1:before, .isc-app-top-menu-nav-s1:before, .isc-app-login-cell-s1:before, .isc-app-screen-content-s1:before, .isc-app-screen-header-container:before, .isc-app-screen-body-container:before, .isc-app-screen-body-inner-container:before, .isc-bud-cell-s1:before, .isc-app-screen-sec-container-s1:before, .isc-screen-nav-container-s1:before, .isc-screen-sub-bdy-inner-container-s1:before, .isc-bud-cell-s2:before, .isc-form-content-container-s1:before, .form-group:before, .isc-screen-sec-hdr-container-s1:before, .isc-detail-bg-s1:before, .isc-input-tag-cell-s1:before, .isc-screen-entity-list-s1:before, .isc-td-inline-status-ch-s1:before, .isc-panels-grp-container-s1:before, .isc-panels-grp-hdr-container-s1:before, .isc-panels-grp-bdy-container-s1:before, .isc-tile-read-container-s1:before, .isc-tile-row-s1:before, .isc-tile-row-s2:before, .isc-tile-hdr-row-s1:before, .isc-tile-hdr-row-s2:before, .isc-panel-tile-read-container-s1:before, .isc-panel-tile-read-container-s2:before, .isc-pan-progress-bar-s1:before, .isc-app-screen-sec-hdrs-container-s1:before, .isc-timeline-cell-s1:before, .isc-timeline-hdr-cell-s1:before, .isc-timeline-bdy-cell-s1:before, .isc-grp-cal-cell-s1:before, .isc-grp-cal-lft-cell-s1:before, .isc-grp-cal-cen-cell-s1:before, .isc-grp-cal-rig-cell-s1:before, .isc-img-box-cell-s1:before, .isc-img-box-cell-s2:before, .isc-hdr-tile-cell-s1:before, .isc-hdr-tile-inner-cell-s1:before, .isc-imgn-cell-s1:before, .isc-inner-imgn-cell-s1:before, .isc-tree-grp-container-s1:before, .isc-panel-tile-list-grp-container-s1:before, .isc-panel-tile-list-hdr-container-s1:before, .isc-panel-tile-list-bdy-container-s1:before, .isc-panel-tile-list-bdy-hdr-cell-s1:before, .isc-panel-tile-list-bdy-inner-cell-s1:before, .isc-act-arr-block-row-s1:before, .isc-comment-cont-grp-cell-s1:before, .isc-comment-cont-grp-innr-cell-s1:before, .isc-activity-feed-cell-s1:before, .isc-grp-right-tabs-container-s1:before, .isc-grp-right-tabs-hdr-cell-s1:before, .isc-grp-right-tabs-bdy-cell-s1:before, .isc-wiz-tab-container-s1:before, .isc-wiz-tab-cont-s1:before, .isc-wiz-tab-bdy-cont-s1:before, .isc-dek-txt-s1:before, .isc-list-sep-kpi-cht-cell-s1:before, .isc-side-sec-grp-container-s1:before, .isc-side-sec-grp-hdr-container-s1:before, .isc-side-sec-grp-bdy-container-s1:before, .isc-ths-day-cell-s1:before
+{
+    content: '';
+    display: table;
+}
+
+.isc-app-main-layout-container:after, .isc-app-main-top-layout-container:after, .isc-app-main-body-layout-container:after, .isc-app-top-tog-btn-s1:after, .isc-app-top-brand-title-s1:after, .isc-app-top-menu-nav-s1:after, .isc-app-login-cell-s1:after, .isc-app-screen-content-s1:after, .isc-app-screen-header-container:after, .isc-app-screen-body-container:after, .isc-app-screen-body-inner-container:after, .isc-bud-cell-s1:after, .isc-app-screen-sec-container-s1:after, .isc-screen-nav-container-s1:after, .isc-screen-sub-bdy-inner-container-s1:after, .isc-bud-cell-s2:after, .isc-form-content-container-s1:after, .form-group:after, .isc-screen-sec-hdr-container-s1:after, .isc-detail-bg-s1:after, .isc-input-tag-cell-s1:after, .isc-screen-entity-list-s1:after, .isc-td-inline-status-ch-s1:after, .isc-panels-grp-container-s1:after, .isc-panels-grp-hdr-container-s1:after, .isc-panels-grp-bdy-container-s1:after, .isc-tile-read-container-s1:after, .isc-tile-row-s1:after, .isc-tile-row-s2:after, .isc-tile-hdr-row-s1:after, .isc-tile-hdr-row-s2:after, .isc-panel-tile-read-container-s1:after, .isc-panel-tile-read-container-s2:after, .isc-pan-progress-bar-s1:after, .isc-app-screen-sec-hdrs-container-s1:after, .isc-timeline-cell-s1:after, .isc-timeline-hdr-cell-s1:after, .isc-timeline-bdy-cell-s1:after, .isc-grp-cal-cell-s1:after, .isc-grp-cal-lft-cell-s1:after, .isc-grp-cal-cen-cell-s1:after, .isc-grp-cal-rig-cell-s1:after, .isc-img-box-cell-s1:after, .isc-img-box-cell-s2:after, .isc-hdr-tile-cell-s1:after, .isc-hdr-tile-inner-cell-s1:after, .isc-tree-grp-container-s1:after, .isc-panel-tile-list-grp-container-s1:after, .isc-panel-tile-list-hdr-container-s1:after, .isc-panel-tile-list-bdy-container-s1:after, .isc-panel-tile-list-bdy-hdr-cell-s1:after, .isc-panel-tile-list-bdy-inner-cell-s1:after, .isc-act-arr-block-row-s1:after, .isc-comment-cont-grp-cell-s1:after, .isc-comment-cont-grp-innr-cell-s1:after, .isc-activity-feed-cell-s1:after, .isc-grp-right-tabs-container-s1:after, .isc-grp-right-tabs-hdr-cell-s1:after, .isc-grp-right-tabs-bdy-cell-s1:after, .isc-wiz-tab-container-s1:after, .isc-wiz-tab-cont-s1:after, .isc-wiz-tab-bdy-cont-s1:after, .isc-dek-txt-s1:after, .isc-list-sep-kpi-cht-cell-s1:after, .isc-side-sec-grp-container-s1:after, .isc-side-sec-grp-hdr-container-s1:after, .isc-side-sec-grp-bdy-container-s1:after
+{
+    content: '';
+    display: table;
+    clear: both;
+}
+
+/**/
+.div-col-5per
+{
+    width: 5%;
+    float: left;
+}
+.div-col-7per
+{
+    width: 7%;
+    float: left;
+}
+.div-col-10per
+{
+    width: 10%;
+    float: left;
+}
+.div-col-15per
+{
+    width: 15%;
+    float: left;
+}
+.div-col-17per
+{
+    width: 17%;
+    float: left;
+}
+.div-col-16per
+{
+    width: 16%;
+    float: left;
+}
+.div-col-16half
+{
+    width: 16.6%;
+    float: left;
+}
+.div-col-20per
+{
+    width: 20%;
+    float: left;
+}
+.div-col-25per
+{
+    width: 25%;
+    float: left;
+}
+.div-col-30per
+{
+    width: 30%;
+    float: left;
+}
+.div-col-33per
+{
+    width: 33.3333%;
+    float: left;
+}
+.div-col-35per
+{
+    width: 35%;
+    float: left;
+}
+.div-col-40per
+{
+    width: 40%;
+    float: left;
+}
+.div-col-45per
+{
+    width: 45%;
+    float: left;
+}
+.div-col-50per
+{
+    width: 50%;
+    float: left;
+}
+.div-col-55per
+{
+    width: 55%;
+    float: left;
+}
+.div-col-37per
+{
+    width: 37%;
+    float: left;
+}
+.div-col-36per
+{
+    width: 36%;
+    float: left;
+}
+.div-col-60per
+{
+    width: 60%;
+    float: left;
+}
+.div-col-64per
+{
+    width: 64%;
+    float: left;
+}
+.div-col-63per
+{
+    width: 63%;
+    float: left;
+}
+.div-col-65per
+{
+    width: 65%;
+    float: left;
+}
+.div-col-70per
+{
+    width: 70%;
+    float: left;
+}
+.div-col-75per
+{
+    width: 75%;
+    float: left;
+}
+.div-col-78per
+{
+    width: 78%;
+    float: left;
+}
+.div-col-80per
+{
+    width: 80%;
+    float: left;
+}
+.div-col-83per
+{
+    width: 83%;
+    float: left;
+}
+.div-col-85per
+{
+    width: 85%;
+    float: left;
+}
+.div-col-90per
+{
+    width: 90%;
+    float: left;
+}
+.div-col-95per
+{
+    width: 95%;
+    float: left;
+}
+.div-col-100per
+{
+    width: 100%;
+    float: left;
+}
+.pad-lft-20
+{
+    padding-left: 20px !important;
+}
+.pad-lft-23
+{
+    padding-left: 23px !important;
+}
+.pad-lft-max
+{
+    padding-left: 15px;
+}
+.pad-lft-max-s1
+{
+    padding-left: 25px;
+}
+.pad-lft-med
+{
+    padding-left: 10px;
+}
+.pad-rig-5
+{
+    padding-right: 5px;
+}
+.pad-lft-min
+{
+    padding-left: 5px;
+}
+.pad-none
+{
+    padding: 0px 0px !important;
+}
+.mar-none
+{
+    margin: 0px 0px !important;
+}
+.mar-lft-10
+{
+    margin-left: 10px !important;
+}
+.mar-bot-max
+{
+    margin-bottom: 20px !important;
+}
+.mar-top-max
+{
+    margin-top: 20px;
+}
+.isc-ht-40
+{
+    min-height: 40px !important;
+}
+.mar-top-med
+{
+    margin-top: 15px;
+}
+.mar-right-20
+{
+    margin-right: 20px !important;
+}
+
+.mar-lft-5
+{
+    margin-left: 5px !important;
+}
+.mar-lef-22
+{
+    margin-left: 22px;
+}
+.mar-top-min
+{
+    margin-top: 10px;
+}
+.cell-left
+{
+    float: left !important;
+}
+.cell-right
+{
+    float: right !important;
+}
+.responsive-scroll-grid-container
+{
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+.text-underline
+{
+    text-decoration: underline;
+}
+.pad-lft-max-lg
+{
+    padding-left: 20px;
+}
+h1, h2, h3, h4, h5, h6, h7
+{
+}
+.pad-lft-med-s4
+{
+    padding-left: 20px;
+}
+.mar-lft-med-s1
+{
+    margin-left: 15px;
+}
+.mar-lft-med-s2
+{
+    margin-left: 10px;
+}
+.mar-bot-min
+{
+    margin-bottom: 5px;
+}
+.isc-min-hit-530
+{
+    min-height: 530px;
+}
+.isc-min-ht-s1
+{
+    min-height: 550px;
+}
+.isc-pad-none-s1
+{
+    padding: 0px !important;
+}
+.isc-pad-right-min
+{
+    padding-right: 5px;
+}
+.bor-set
+{
+    border: 1px solid #ececec;
+}
+.isc-Line-ht-25
+{
+    line-height: 25px;
+}
+.isc-Line-ht-39
+{
+    line-height: 39px !important;
+}
+.mar-rig-3
+{
+    margin-right: 3px;
+}
+.isc-sorter-none
+{
+    background-image: none !important; /* height: 4px !important; */
+}
+
+.isc-bor-bot
+{
+    border-bottom: 1px solid #ececec;
+}
+.bor-non
+{
+    border: none !important;
+}
+.bor-bot-none
+{
+    border-bottom: none !important;
+}
+.app-screen-header-s1:before, .app-screen-body-inner-container:before, .screen-tab-container:before, .screen-sec-inner-container:before, .app-responsive-center-container:before, .app-left-action-menu:before, .app-right-action-menu-content:before, .app-screen-innerheader-s1:before, .app-screen-main-content-inr-container:before, .app-screen-main-content-body-container-s2:before, .isc-tab-screen-innser-sec-container-s1:before, .isc-scorecard-container-grp-s1:before, .isc-scorecard-hdr-container-grp-s1:before, .isc-scorecard-bdy-container-grp-s1:before, .isc-prog-cell-s1:before, .isc-app-inner-section-container-s1:before, .isc-dms-reps-container-s1:before, .isc-tile-nav-s1:before, .title-summary-container:before, .title-summary-container-hdr-s1:before, .tile-prgrs-info:before, .isc-scr-ent-container-s1:before, .isc-scr-ent-hdr-container-s1:before, .isc-scr-ent-bdy-container-s1:before, .isc-scr-ent-inner-container-s1:before, .isc-scr-ent-bdy-container-s2:before, .isc-pans-ent-container-s1:before, .isc-panel-tile-cont-s1:before, .isc-pnsl-tile-s1:before, .isc-arw-panel-grp-container-s1:before, .isc-arw-panel-grp-col-cell-s1:before, .isc-arw-panel-grp-bdy-cell-s1:before, .isc-arw-panel-grp-header-container-s1:before, .isc-rept-cell-container-s1:before, .isc-kpi-tile-container-s1:before, .isc-kpi-tile-cell-top-s1:before, .isc-kpi-tile-cell-bottom-s1:before, .isc-pipline-tab-container-s1:before, .screen-tab-container-s5:before, .isc-det-container-s1:before, .isc-brf-grp-container:before, .isc-brf-lft-container:before, .isc-brf-rig-container:before, .isc-brf-lft-inner-container:before, .isc-brf-rig-inner-container:before, .isc-pip-timline-grp-container:before, .isc-pip-timline-hdr-container:before, .isc-pip-timline-bdy-container:before, .isc-brf-rig-inner-container-s2:before, .isc-tile-pnl-sec-s1:before, .isc-doc-slmp-cell-s1:before, .isc-lbl-progress-hdr-s1:before, .isc-td-subdoc-cell-container-s1:before, .isc-brf-lft-container:before, .isc-brf-rig-container:before, .isc-brf-lft-inner-container:before, .isc-brf-rig-inner-container:before, .isc-pip-timline-grp-container:before, .isc-pip-timline-hdr-container:before, .isc-pip-timline-bdy-container:before, .isc-brf-rig-inner-container-s2:before, .isc-tile-pnl-sec-s1:before, .isc-doc-slmp-cell-s1:before, .isc-doc-slmp-cell-s1:before, .isc-rept-cell-container-s1:before, .tile-list-info-count-container:before, .isc-tree-child-lists-s1 > li > a:before, .isc-card-panel-sec-sig-row-cell-s1:before, .isc-card-panel-sec-sig-row-cell-s2:before, .isc-tile-tre-supt-cell-s1:before, .isc-tile-tre-supt-cell-s2:before, .isc-timeline-container-s1:before, .isc-docx-cell-s1:before, .isc-app-screen-header-container-top-s1:before, .isc-app-screen-body-kpi-container-s1:before, .isc-app-screen-body-workflow-container-s1:before, .isc-app-screen-body-chks-container-s1:before, .isc-ppn-cell-s10:before, .isc-ppn-cell-s11:before, .isc-sqr-panel-grp-col-cell-par-s1:before, .isc-wrkflow-scr-cont-s1:before, .page-panel-comment-grp-row-container:before, .page-panel-inner-comment-container:before, .isc-scr-hdr-sec-cell-s1:before, .isc-scr-bdy-sec-cell-s1:before, .isc-user-entiti-det-s1:before, .isc-app-page-content-tab-container-s1:before, .isc-screen-inner-bdy-content-container-s1:before, .isc-pnl-acc-grps-cell-s1:before, .isc-pnl-acc-grps-hdr-cell-s1:before, .isc-pnl-acc-grps-bdy-cell-s1:before, .isc-entity-nav-header-cell-s1:before, .isc-entity-nav-body-cell-s1:before, .isc-scr-ent-img-grps-cell-s1:before, .isc-entity-nav-rig-body-cell-s1:before, .isc-entity-nav-lft-body-cell-s1:before, .isc-inner-ppn-cell-s1:before, .isc-sesn-inr-cell-pnl-s1:before, .isc-left-sing-panel-s1:before, .isc-tile-details-hdr-righ-s1:before, .isc-tile-details-bdy-righ-s1:before, .isc-nav-scr-sec-cell-s1:before
+{
+    content: '';
+    display: table;
+}
+.app-screen-header-s1:after, .app-screen-body-inner-container:after, .screen-tab-container:after, .screen-sec-inner-container:after, .app-responsive-center-container:after, .app-left-action-menu:after, .app-right-action-menu-content:after, .app-screen-innerheader-s1:after, .app-screen-main-content-inr-container:after, .app-screen-main-content-body-container-s2:after, .isc-tab-screen-innser-sec-container-s1:after, .isc-scorecard-container-grp-s1:after, .isc-scorecard-hdr-container-grp-s1:after, .isc-scorecard-bdy-container-grp-s1:after, .isc-prog-cell-s1:after, .isc-app-inner-section-container-s1:after, .isc-dms-reps-container-s1:after, .isc-tile-nav-s1:after, .title-summary-container:after, .title-summary-container-hdr-s1:after, .tile-prgrs-info:after, .isc-scr-ent-container-s1:after, .isc-scr-ent-hdr-container-s1:after, .isc-scr-ent-bdy-container-s1:after, .isc-scr-ent-inner-container-s1:after, .isc-scr-ent-bdy-container-s2:after, .isc-pans-ent-container-s1:after, .isc-panel-tile-cont-s1:after, .isc-pnsl-tile-s1:after, .isc-arw-panel-grp-container-s1:after, .isc-arw-panel-grp-col-cell-s1:after, .isc-arw-panel-grp-bdy-cell-s1:after, .isc-arw-panel-grp-header-container-s1:after, .isc-rept-cell-container-s1:after, .isc-kpi-tile-container-s1:after, .isc-kpi-tile-cell-top-s1:after, .isc-kpi-tile-cell-bottom-s1:after, .isc-pipline-tab-container-s1:after, .screen-tab-container-s5:after, .isc-det-container-s1:after, .isc-brf-grp-container:after, .isc-brf-lft-container:after, .isc-brf-rig-container:after, .isc-brf-lft-inner-container:after, .isc-brf-rig-inner-container:after, .isc-pip-timline-grp-container:after, .isc-pip-timline-hdr-container:after, .isc-pip-timline-bdy-container:after, .isc-brf-rig-inner-container-s2:after, .isc-tile-pnl-sec-s1:after, .isc-doc-slmp-cell-s1:after, .isc-lbl-progress-hdr-s1:after, .isc-td-subdoc-cell-container-s1:after, .isc-brf-grp-container:after, .isc-brf-lft-container:after, .isc-brf-rig-container:after, .isc-brf-lft-inner-container:after, .isc-brf-rig-inner-container:after, .isc-pip-timline-grp-container:after, .isc-pip-timline-hdr-container:after, .isc-pip-timline-bdy-container:after, .isc-brf-rig-inner-container-s2:after, .isc-tile-pnl-sec-s1:after, .isc-doc-slmp-cell-s1:after, .isc-doc-slmp-cell-s1:after, .isc-rept-cell-container-s1:after, .tile-list-info-count-container:after, .isc-tree-child-lists-s1 > li > a:after, .isc-card-panel-sec-sig-row-cell-s1:after, .isc-card-panel-sec-sig-row-cell-s2:after, .isc-tile-tre-supt-cell-s1:after, .isc-tile-tre-supt-cell-s2:after, .isc-timeline-container-s1:after, .isc-docx-cell-s1:after, .isc-app-screen-header-container-top-s1:after, .isc-app-screen-body-kpi-container-s1:after, .isc-app-screen-body-workflow-container-s1:after, .isc-app-screen-body-chks-container-s1:after, .isc-ppn-cell-s10:after, .isc-ppn-cell-s11:after, .isc-sqr-panel-grp-col-cell-par-s1:after, .isc-wrkflow-scr-cont-s1:after, .page-panel-comment-grp-row-container:after, .page-panel-inner-comment-container:after, .isc-scr-hdr-sec-cell-s1:after, .isc-scr-bdy-sec-cell-s1:after, .isc-user-entiti-det-s1:after, .isc-app-page-content-tab-container-s1:after, .isc-screen-inner-bdy-content-container-s1:after, .isc-pnl-acc-grps-cell-s1:after, .isc-pnl-acc-grps-hdr-cell-s1:after, .isc-pnl-acc-grps-bdy-cell-s1:after, .isc-entity-nav-header-cell-s1:after, .isc-entity-nav-body-cell-s1:after, .isc-scr-ent-img-grps-cell-s1:after, .isc-entity-nav-rig-body-cell-s1:after, .isc-entity-nav-lft-body-cell-s1:after, .isc-inner-ppn-cell-s1:after, .isc-sesn-inr-cell-pnl-s1:after, .isc-left-sing-panel-s1:after, .isc-tile-details-hdr-righ-s1:after, .isc-tile-details-bdy-righ-s1:after, .isc-nav-scr-sec-cell-s1:after
+{
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.isc-wizard-popup-thm-bdy-s1:before, .isc-tile-cthms-container-s1:before, .isc-notif-cell-s1:before, .isc-user-entiti-det-s1:before
+{
+    content: '';
+    display: table;
+}
+.isc-wizard-popup-thm-bdy-s1:after, .isc-tile-cthms-container-s1:after, .isc-notif-cell-s1:after, .isc-user-entiti-det-s1:after
+{
+    content: '';
+    display: table;
+    clear: both;
+}
+.isc-bor-none
+{
+    border: none !important;
+}
+.isc-mar-lft-none
+{
+    margin: 0 15px 0 0 !important;
+}
+.isc-bor-rgt-s2
+{
+    border-right: 1px solid #ddd !important;
+}
+.isc-pad-5
+{
+    padding: 5px 5px 0px 5px;
+}
+.line-height-non {
+line-height:0 !important;
+}
+.isc-table-sorter-none {
+    background-image: none !important;
+}
+.txt-upper-case {
+text-transform:uppercase !important;
+}
+.txt-caps-case {
+text-transform: capitalize !important;
+}
+.pad-none {
+padding:0 !important;
+}
+.pad-lft-30 {
+    padding-left:30px !important;
+}
+.pad-lft-20 {
+    padding-left:20px !important;
+}
+.pad-lft-40 {
+    padding-left:40px !important;
+}
+.mar-top-2 {
+    margin-top: 2px !important;
+}
+.font-500 {
+font-weight:500 !important;
+}
+/*.whitespace-none {
+white-space:unset !important;
+}*/

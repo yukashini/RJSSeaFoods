@@ -1,0 +1,16 @@
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.DataAccessLayer\bin\Release\ISCLibrary.DataAccessLayer.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.DataAccessLayer\bin\Release\ISCLibrary.DataAccessLayer.pdb
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.DataAccessLayer\obj\Release\ISCLibrary.DataAccessLayer.dll
+D:\Data\Project\ISC\Projects\BillManagement\BillManagementSVN\ISCLibrary.DataAccessLayer\obj\Release\ISCLibrary.DataAccessLayer.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Release\ISCLibrary.DataAccessLayer.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Release\ISCLibrary.DataAccessLayer.pdb
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Release\ISCLibrary.DataAccessLayer.csproj.AssemblyReference.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Release\ISCLibrary.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Release\ISCLibrary.DataAccessLayer.dll
+D:\rjs project-backUp\12\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Release\ISCLibrary.DataAccessLayer.pdb
+D:\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Release\ISCLibrary.DataAccessLayer.dll
+D:\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\bin\Release\ISCLibrary.DataAccessLayer.pdb
+D:\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Release\ISCLibrary.DataAccessLayer.csproj.AssemblyReference.cache
+D:\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Release\ISCLibrary.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Release\ISCLibrary.DataAccessLayer.dll
+D:\ARCBILL\ARCBILL\ISCLibrary.DataAccessLayer\obj\Release\ISCLibrary.DataAccessLayer.pdb
